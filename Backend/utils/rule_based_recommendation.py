@@ -5,7 +5,7 @@ def rule_based_recommend(user, internships, top_n=5):
 
     recs = []
     for row in internships:
-        # Check degree (list of processed options)
+        # Check degree
         degree_reqs = row.get("Eligibility Degree_processed", [])
         if degree_reqs:
             if not any(req in user_degree or user_degree in req for req in degree_reqs):
@@ -22,12 +22,6 @@ def rule_based_recommend(user, internships, top_n=5):
         row["Score"]= match_count
 
         recs.append(row)
-        # recs.append({
-        #     "id": row.get("id"),
-        #     "title": row.get("Title", ""),
-        #     "skills_matched": list(match_skills),
-        #     "score": match_count
-        # })
 
     recs.sort(key=lambda x: x["Score"], reverse=True)
     return recs
