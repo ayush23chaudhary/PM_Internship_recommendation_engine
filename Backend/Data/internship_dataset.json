@@ -1,0 +1,1603 @@
+[
+    {
+        "Title": "Marketing Intern",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "M.Tech AI",
+        "Sector": "Manufacturing",
+        "Stipend": 15000,
+        "Duration": "3 Months",
+        "End Date": "2025-11-24",
+        "Required Skills": [
+            "CAD",
+            "Communication",
+            "Python",
+            "C++"
+        ],
+        "Location": "Bangalore"
+    },
+    {
+        "Title": "Finance Intern",
+        "Description": "Develop machine learning models and datasets.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "B.Tech CSE",
+        "Sector": "Research",
+        "Stipend": 15000,
+        "Duration": "1 Month",
+        "End Date": "2026-02-03",
+        "Required Skills": [
+            "CAD",
+            "C++"
+        ],
+        "Location": "Remote"
+    },
+    {
+        "Title": "Civil Engineering Intern",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Government",
+        "Stipend": 0,
+        "Duration": "2 Months",
+        "End Date": "2026-01-19",
+        "Required Skills": [
+            "Java",
+            "UI/UX Design"
+        ],
+        "Location": "Ahmedabad"
+    },
+    {
+        "Title": "Civil Engineering Intern",
+        "Description": "Work on threat detection and network monitoring.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "PhD Computer Science",
+        "Sector": "Healthcare",
+        "Stipend": 0,
+        "Duration": "3 Months",
+        "End Date": "2025-11-30",
+        "Required Skills": [
+            "Machine Learning",
+            "Cybersecurity"
+        ],
+        "Location": "Remote"
+    },
+    {
+        "Title": "Research Assistant",
+        "Description": "Develop machine learning models and datasets.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "IT",
+        "Stipend": 10000,
+        "Duration": "3 Months",
+        "End Date": "2026-04-14",
+        "Required Skills": [
+            "Cybersecurity",
+            "Machine Learning"
+        ],
+        "Location": "Delhi"
+    },
+    {
+        "Title": "Finance Intern",
+        "Description": "Hands-on experience with machinery and CAD tools.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "IT",
+        "Stipend": 15000,
+        "Duration": "6 Months",
+        "End Date": "2026-07-12",
+        "Required Skills": [
+            "Finance Modelling",
+            "Java",
+            "SQL",
+            "UI/UX Design"
+        ],
+        "Location": "Jaipur"
+    },
+    {
+        "Title": "Mechanical Intern",
+        "Description": "Assist in construction planning and site supervision.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Education",
+        "Stipend": 8000,
+        "Duration": "2 Months",
+        "End Date": "2026-07-31",
+        "Required Skills": [
+            "Finance Modelling",
+            "Machine Learning",
+            "UI/UX Design",
+            "Java"
+        ],
+        "Location": "Delhi"
+    },
+    {
+        "Title": "Cybersecurity Intern",
+        "Description": "Design wireframes, prototypes, and app screens.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "Government",
+        "Stipend": 5000,
+        "Duration": "3 Months",
+        "End Date": "2026-05-17",
+        "Required Skills": [
+            "Machine Learning",
+            "UI/UX Design",
+            "Data Analysis",
+            "Finance Modelling"
+        ],
+        "Location": "Pune"
+    },
+    {
+        "Title": "Finance Intern",
+        "Description": "Work on threat detection and network monitoring.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "M.Tech AI",
+        "Sector": "Government",
+        "Stipend": 0,
+        "Duration": "2 Months",
+        "End Date": "2026-01-18",
+        "Required Skills": [
+            "Communication",
+            "UI/UX Design"
+        ],
+        "Location": "Ahmedabad"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Assist in construction planning and site supervision.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "M.Tech AI",
+        "Sector": "Construction",
+        "Stipend": 5000,
+        "Duration": "1 Month",
+        "End Date": "2025-12-23",
+        "Required Skills": [
+            "Communication",
+            "Data Analysis",
+            "Machine Learning"
+        ],
+        "Location": "Delhi"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Education",
+        "Stipend": 20000,
+        "Duration": "2 Months",
+        "End Date": "2026-02-17",
+        "Required Skills": [
+            "Communication",
+            "Machine Learning",
+            "Java"
+        ],
+        "Location": "Bangalore"
+    },
+    {
+        "Title": "UI/UX Designer Intern",
+        "Description": "Hands-on experience with machinery and CAD tools.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "Education",
+        "Stipend": 15000,
+        "Duration": "1 Month",
+        "End Date": "2026-07-06",
+        "Required Skills": [
+            "Finance Modelling",
+            "Machine Learning",
+            "Java"
+        ],
+        "Location": "Kolkata"
+    },
+    {
+        "Title": "Software Intern",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "B.Tech ECE",
+        "Sector": "IT",
+        "Stipend": 12000,
+        "Duration": "6 Months",
+        "End Date": "2026-07-01",
+        "Required Skills": [
+            "Java",
+            "Data Analysis"
+        ],
+        "Location": "Kolkata"
+    },
+    {
+        "Title": "Cybersecurity Intern",
+        "Description": "Work on real-time projects with mentorship.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "PhD Computer Science",
+        "Sector": "Education",
+        "Stipend": 15000,
+        "Duration": "2 Months",
+        "End Date": "2026-06-16",
+        "Required Skills": [
+            "UI/UX Design",
+            "Finance Modelling"
+        ],
+        "Location": "Kolkata"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Work on real-time projects with mentorship.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "Construction",
+        "Stipend": 12000,
+        "Duration": "6 Months",
+        "End Date": "2026-05-19",
+        "Required Skills": [
+            "Java",
+            "Communication",
+            "CAD"
+        ],
+        "Location": "Pune"
+    },
+    {
+        "Title": "Finance Intern",
+        "Description": "Work on real-time projects with mentorship.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech ECE",
+        "Sector": "Finance",
+        "Stipend": 20000,
+        "Duration": "6 Months",
+        "End Date": "2026-03-02",
+        "Required Skills": [
+            "Data Analysis",
+            "Python"
+        ],
+        "Location": "Jaipur"
+    },
+    {
+        "Title": "UI/UX Designer Intern",
+        "Description": "Assist with financial reports and budget tracking.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Healthcare",
+        "Stipend": 20000,
+        "Duration": "2 Months",
+        "End Date": "2026-03-09",
+        "Required Skills": [
+            "Python",
+            "Cybersecurity"
+        ],
+        "Location": "Pune"
+    },
+    {
+        "Title": "Cybersecurity Intern",
+        "Description": "Work on threat detection and network monitoring.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "PhD Computer Science",
+        "Sector": "IT",
+        "Stipend": 0,
+        "Duration": "2 Months",
+        "End Date": "2026-02-04",
+        "Required Skills": [
+            "Machine Learning",
+            "Cybersecurity",
+            "Java",
+            "SQL"
+        ],
+        "Location": "Jaipur"
+    },
+    {
+        "Title": "Data Analyst Intern",
+        "Description": "Design wireframes, prototypes, and app screens.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "PhD Computer Science",
+        "Sector": "Manufacturing",
+        "Stipend": 15000,
+        "Duration": "3 Months",
+        "End Date": "2025-10-01",
+        "Required Skills": [
+            "Python",
+            "Java",
+            "C++"
+        ],
+        "Location": "Pune"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Work on real-time projects with mentorship.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "M.Tech AI",
+        "Sector": "Finance",
+        "Stipend": 10000,
+        "Duration": "3 Months",
+        "End Date": "2026-06-29",
+        "Required Skills": [
+            "SQL",
+            "Finance Modelling",
+            "Cybersecurity"
+        ],
+        "Location": "Chennai"
+    },
+    {
+        "Title": "Finance Intern",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Government",
+        "Stipend": 5000,
+        "Duration": "1 Month",
+        "End Date": "2026-06-30",
+        "Required Skills": [
+            "Communication",
+            "Finance Modelling",
+            "Java",
+            "SQL"
+        ],
+        "Location": "Ahmedabad"
+    },
+    {
+        "Title": "Marketing Intern",
+        "Description": "Assist with financial reports and budget tracking.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "B.Tech ME",
+        "Sector": "Finance",
+        "Stipend": 10000,
+        "Duration": "3 Months",
+        "End Date": "2025-12-05",
+        "Required Skills": [
+            "Java",
+            "Finance Modelling"
+        ],
+        "Location": "Delhi"
+    },
+    {
+        "Title": "Software Intern",
+        "Description": "Assist in data cleaning, visualization, and reporting.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "IT",
+        "Stipend": 5000,
+        "Duration": "1 Month",
+        "End Date": "2025-10-14",
+        "Required Skills": [
+            "Cybersecurity",
+            "SQL",
+            "Machine Learning"
+        ],
+        "Location": "Chennai"
+    },
+    {
+        "Title": "Software Intern",
+        "Description": "Develop machine learning models and datasets.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech CSE",
+        "Sector": "Education",
+        "Stipend": 12000,
+        "Duration": "6 Months",
+        "End Date": "2026-08-10",
+        "Required Skills": [
+            "SQL",
+            "C++",
+            "Python"
+        ],
+        "Location": "Ahmedabad"
+    },
+    {
+        "Title": "UI/UX Designer Intern",
+        "Description": "Develop machine learning models and datasets.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "Finance",
+        "Stipend": 8000,
+        "Duration": "6 Months",
+        "End Date": "2025-11-17",
+        "Required Skills": [
+            "Cybersecurity",
+            "Communication"
+        ],
+        "Location": "Chennai"
+    },
+    {
+        "Title": "Research Assistant",
+        "Description": "Develop machine learning models and datasets.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "B.Tech CSE",
+        "Sector": "Manufacturing",
+        "Stipend": 5000,
+        "Duration": "2 Months",
+        "End Date": "2026-07-17",
+        "Required Skills": [
+            "Communication",
+            "SQL",
+            "CAD"
+        ],
+        "Location": "Mumbai"
+    },
+    {
+        "Title": "Data Analyst Intern",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "M.Tech CSE",
+        "Sector": "IT",
+        "Stipend": 10000,
+        "Duration": "3 Months",
+        "End Date": "2026-05-11",
+        "Required Skills": [
+            "C++",
+            "Communication",
+            "CAD",
+            "Python"
+        ],
+        "Location": "Bangalore"
+    },
+    {
+        "Title": "Finance Intern",
+        "Description": "Work on threat detection and network monitoring.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "B.Tech ECE",
+        "Sector": "Manufacturing",
+        "Stipend": 8000,
+        "Duration": "1 Month",
+        "End Date": "2026-06-05",
+        "Required Skills": [
+            "Cybersecurity",
+            "Data Analysis",
+            "Finance Modelling"
+        ],
+        "Location": "Mumbai"
+    },
+    {
+        "Title": "Cybersecurity Intern",
+        "Description": "Assist in construction planning and site supervision.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "MBA Marketing",
+        "Sector": "IT",
+        "Stipend": 5000,
+        "Duration": "3 Months",
+        "End Date": "2026-08-23",
+        "Required Skills": [
+            "Java",
+            "Communication",
+            "UI/UX Design",
+            "CAD"
+        ],
+        "Location": "Mumbai"
+    },
+    {
+        "Title": "Research Assistant",
+        "Description": "Develop machine learning models and datasets.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Construction",
+        "Stipend": 8000,
+        "Duration": "3 Months",
+        "End Date": "2025-12-03",
+        "Required Skills": [
+            "SQL",
+            "Cybersecurity",
+            "CAD"
+        ],
+        "Location": "Jaipur"
+    },
+    {
+        "Title": "Cybersecurity Intern",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "B.Tech ME",
+        "Sector": "IT",
+        "Stipend": 15000,
+        "Duration": "2 Months",
+        "End Date": "2026-08-09",
+        "Required Skills": [
+            "Machine Learning",
+            "Python",
+            "SQL",
+            "Communication"
+        ],
+        "Location": "Mumbai"
+    },
+    {
+        "Title": "Marketing Intern",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "MBA Marketing",
+        "Sector": "IT",
+        "Stipend": 15000,
+        "Duration": "6 Months",
+        "End Date": "2026-06-20",
+        "Required Skills": [
+            "Java",
+            "Cybersecurity"
+        ],
+        "Location": "Remote"
+    },
+    {
+        "Title": "Research Assistant",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "PhD Computer Science",
+        "Sector": "Finance",
+        "Stipend": 10000,
+        "Duration": "2 Months",
+        "End Date": "2026-04-20",
+        "Required Skills": [
+            "CAD",
+            "C++",
+            "SQL",
+            "Cybersecurity"
+        ],
+        "Location": "Remote"
+    },
+    {
+        "Title": "Cybersecurity Intern",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "B.Tech CSE",
+        "Sector": "IT",
+        "Stipend": 0,
+        "Duration": "2 Months",
+        "End Date": "2026-05-28",
+        "Required Skills": [
+            "Machine Learning",
+            "CAD"
+        ],
+        "Location": "Chennai"
+    },
+    {
+        "Title": "UI/UX Designer Intern",
+        "Description": "Assist with financial reports and budget tracking.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Construction",
+        "Stipend": 10000,
+        "Duration": "3 Months",
+        "End Date": "2026-01-25",
+        "Required Skills": [
+            "Java",
+            "C++"
+        ],
+        "Location": "Bangalore"
+    },
+    {
+        "Title": "Civil Engineering Intern",
+        "Description": "Work on threat detection and network monitoring.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "Government",
+        "Stipend": 8000,
+        "Duration": "6 Months",
+        "End Date": "2026-03-15",
+        "Required Skills": [
+            "UI/UX Design",
+            "Machine Learning",
+            "Finance Modelling"
+        ],
+        "Location": "Jaipur"
+    },
+    {
+        "Title": "Finance Intern",
+        "Description": "Design wireframes, prototypes, and app screens.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "M.Tech AI",
+        "Sector": "Manufacturing",
+        "Stipend": 12000,
+        "Duration": "2 Months",
+        "End Date": "2026-07-10",
+        "Required Skills": [
+            "Machine Learning",
+            "UI/UX Design",
+            "Communication",
+            "Python"
+        ],
+        "Location": "Remote"
+    },
+    {
+        "Title": "Software Intern",
+        "Description": "Design wireframes, prototypes, and app screens.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "Manufacturing",
+        "Stipend": 15000,
+        "Duration": "3 Months",
+        "End Date": "2025-10-23",
+        "Required Skills": [
+            "Machine Learning",
+            "Communication",
+            "Data Analysis"
+        ],
+        "Location": "Chennai"
+    },
+    {
+        "Title": "Research Assistant",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech CSE",
+        "Sector": "Healthcare",
+        "Stipend": 15000,
+        "Duration": "2 Months",
+        "End Date": "2026-04-01",
+        "Required Skills": [
+            "Java",
+            "UI/UX Design"
+        ],
+        "Location": "Remote"
+    },
+    {
+        "Title": "UI/UX Designer Intern",
+        "Description": "Assist in construction planning and site supervision.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "B.Tech ME",
+        "Sector": "IT",
+        "Stipend": 8000,
+        "Duration": "6 Months",
+        "End Date": "2025-11-25",
+        "Required Skills": [
+            "Machine Learning",
+            "Python"
+        ],
+        "Location": "Jaipur"
+    },
+    {
+        "Title": "Marketing Intern",
+        "Description": "Help with market analysis and promotional campaigns.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Healthcare",
+        "Stipend": 10000,
+        "Duration": "1 Month",
+        "End Date": "2026-05-15",
+        "Required Skills": [
+            "Cybersecurity",
+            "Data Analysis",
+            "Communication",
+            "CAD"
+        ],
+        "Location": "Delhi"
+    },
+    {
+        "Title": "Software Intern",
+        "Description": "Assist in construction planning and site supervision.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "B.Tech CSE",
+        "Sector": "Education",
+        "Stipend": 10000,
+        "Duration": "2 Months",
+        "End Date": "2025-10-30",
+        "Required Skills": [
+            "Java",
+            "UI/UX Design"
+        ],
+        "Location": "Bangalore"
+    },
+    {
+        "Title": "Civil Engineering Intern",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "PhD Computer Science",
+        "Sector": "Education",
+        "Stipend": 15000,
+        "Duration": "6 Months",
+        "End Date": "2026-05-24",
+        "Required Skills": [
+            "Cybersecurity",
+            "UI/UX Design",
+            "C++"
+        ],
+        "Location": "Delhi"
+    },
+    {
+        "Title": "Software Intern",
+        "Description": "Assist with financial reports and budget tracking.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "B.Tech ME",
+        "Sector": "Finance",
+        "Stipend": 20000,
+        "Duration": "1 Month",
+        "End Date": "2026-03-04",
+        "Required Skills": [
+            "Java",
+            "C++"
+        ],
+        "Location": "Hyderabad"
+    },
+    {
+        "Title": "Research Assistant",
+        "Description": "Assist in data cleaning, visualization, and reporting.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "Research",
+        "Stipend": 20000,
+        "Duration": "6 Months",
+        "End Date": "2026-04-22",
+        "Required Skills": [
+            "SQL",
+            "Finance Modelling",
+            "Communication",
+            "Machine Learning"
+        ],
+        "Location": "Remote"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Develop machine learning models and datasets.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech ECE",
+        "Sector": "Construction",
+        "Stipend": 5000,
+        "Duration": "3 Months",
+        "End Date": "2026-07-17",
+        "Required Skills": [
+            "SQL",
+            "Finance Modelling",
+            "Machine Learning",
+            "Communication"
+        ],
+        "Location": "Ahmedabad"
+    },
+    {
+        "Title": "Data Analyst Intern",
+        "Description": "Assist in construction planning and site supervision.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "Government",
+        "Stipend": 0,
+        "Duration": "1 Month",
+        "End Date": "2026-04-18",
+        "Required Skills": [
+            "Machine Learning",
+            "SQL",
+            "Data Analysis",
+            "Python"
+        ],
+        "Location": "Pune"
+    },
+    {
+        "Title": "Finance Intern",
+        "Description": "Design wireframes, prototypes, and app screens.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "Education",
+        "Stipend": 15000,
+        "Duration": "3 Months",
+        "End Date": "2026-06-18",
+        "Required Skills": [
+            "C++",
+            "Finance Modelling",
+            "Communication",
+            "SQL"
+        ],
+        "Location": "Kolkata"
+    },
+    {
+        "Title": "UI/UX Designer Intern",
+        "Description": "Design wireframes, prototypes, and app screens.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "M.Tech AI",
+        "Sector": "Education",
+        "Stipend": 20000,
+        "Duration": "6 Months",
+        "End Date": "2026-02-08",
+        "Required Skills": [
+            "CAD",
+            "Machine Learning",
+            "C++",
+            "UI/UX Design"
+        ],
+        "Location": "Remote"
+    },
+    {
+        "Title": "Civil Engineering Intern",
+        "Description": "Assist in construction planning and site supervision.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "M.Tech AI",
+        "Sector": "Manufacturing",
+        "Stipend": 15000,
+        "Duration": "6 Months",
+        "End Date": "2026-02-20",
+        "Required Skills": [
+            "Data Analysis",
+            "UI/UX Design",
+            "Cybersecurity"
+        ],
+        "Location": "Mumbai"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Hands-on experience with machinery and CAD tools.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "B.Tech CSE",
+        "Sector": "Manufacturing",
+        "Stipend": 5000,
+        "Duration": "2 Months",
+        "End Date": "2026-02-19",
+        "Required Skills": [
+            "CAD",
+            "UI/UX Design",
+            "C++",
+            "Finance Modelling"
+        ],
+        "Location": "Kolkata"
+    },
+    {
+        "Title": "Data Analyst Intern",
+        "Description": "Help with market analysis and promotional campaigns.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "PhD Computer Science",
+        "Sector": "Education",
+        "Stipend": 12000,
+        "Duration": "6 Months",
+        "End Date": "2025-11-26",
+        "Required Skills": [
+            "Python",
+            "UI/UX Design",
+            "CAD",
+            "Data Analysis"
+        ],
+        "Location": "Chennai"
+    },
+    {
+        "Title": "Data Analyst Intern",
+        "Description": "Design wireframes, prototypes, and app screens.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Research",
+        "Stipend": 20000,
+        "Duration": "3 Months",
+        "End Date": "2025-11-29",
+        "Required Skills": [
+            "Java",
+            "Data Analysis",
+            "Machine Learning",
+            "Python"
+        ],
+        "Location": "Chennai"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Hands-on experience with machinery and CAD tools.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "Government",
+        "Stipend": 5000,
+        "Duration": "3 Months",
+        "End Date": "2025-11-23",
+        "Required Skills": [
+            "Cybersecurity",
+            "Machine Learning",
+            "UI/UX Design"
+        ],
+        "Location": "Bangalore"
+    },
+    {
+        "Title": "Finance Intern",
+        "Description": "Work on threat detection and network monitoring.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "B.Tech ECE",
+        "Sector": "Finance",
+        "Stipend": 15000,
+        "Duration": "3 Months",
+        "End Date": "2026-02-01",
+        "Required Skills": [
+            "Java",
+            "UI/UX Design"
+        ],
+        "Location": "Delhi"
+    },
+    {
+        "Title": "Data Analyst Intern",
+        "Description": "Assist in data cleaning, visualization, and reporting.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Education",
+        "Stipend": 12000,
+        "Duration": "1 Month",
+        "End Date": "2026-03-29",
+        "Required Skills": [
+            "CAD",
+            "Java",
+            "SQL"
+        ],
+        "Location": "Pune"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Work on real-time projects with mentorship.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "MBA Marketing",
+        "Sector": "Government",
+        "Stipend": 8000,
+        "Duration": "6 Months",
+        "End Date": "2026-01-21",
+        "Required Skills": [
+            "SQL",
+            "Data Analysis",
+            "Communication"
+        ],
+        "Location": "Hyderabad"
+    },
+    {
+        "Title": "Software Intern",
+        "Description": "Assist with financial reports and budget tracking.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech ME",
+        "Sector": "Education",
+        "Stipend": 20000,
+        "Duration": "3 Months",
+        "End Date": "2026-04-16",
+        "Required Skills": [
+            "CAD",
+            "Communication"
+        ],
+        "Location": "Pune"
+    },
+    {
+        "Title": "Civil Engineering Intern",
+        "Description": "Assist in data cleaning, visualization, and reporting.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "PhD Computer Science",
+        "Sector": "IT",
+        "Stipend": 8000,
+        "Duration": "6 Months",
+        "End Date": "2025-12-30",
+        "Required Skills": [
+            "C++",
+            "Data Analysis",
+            "UI/UX Design"
+        ],
+        "Location": "Jaipur"
+    },
+    {
+        "Title": "Finance Intern",
+        "Description": "Design wireframes, prototypes, and app screens.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "B.Tech ME",
+        "Sector": "Manufacturing",
+        "Stipend": 12000,
+        "Duration": "2 Months",
+        "End Date": "2026-02-09",
+        "Required Skills": [
+            "C++",
+            "UI/UX Design",
+            "Java"
+        ],
+        "Location": "Bangalore"
+    },
+    {
+        "Title": "Research Assistant",
+        "Description": "Hands-on experience with machinery and CAD tools.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "M.Tech AI",
+        "Sector": "Education",
+        "Stipend": 12000,
+        "Duration": "6 Months",
+        "End Date": "2026-08-02",
+        "Required Skills": [
+            "Data Analysis",
+            "Java",
+            "Communication"
+        ],
+        "Location": "Chennai"
+    },
+    {
+        "Title": "Data Analyst Intern",
+        "Description": "Help with market analysis and promotional campaigns.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "PhD Mechanical",
+        "Sector": "IT",
+        "Stipend": 20000,
+        "Duration": "3 Months",
+        "End Date": "2026-07-08",
+        "Required Skills": [
+            "Cybersecurity",
+            "SQL"
+        ],
+        "Location": "Mumbai"
+    },
+    {
+        "Title": "Software Intern",
+        "Description": "Design wireframes, prototypes, and app screens.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "PhD Mechanical",
+        "Sector": "Government",
+        "Stipend": 0,
+        "Duration": "1 Month",
+        "End Date": "2026-03-22",
+        "Required Skills": [
+            "Data Analysis",
+            "CAD",
+            "UI/UX Design"
+        ],
+        "Location": "Mumbai"
+    },
+    {
+        "Title": "Finance Intern",
+        "Description": "Design wireframes, prototypes, and app screens.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "B.Tech ME",
+        "Sector": "Healthcare",
+        "Stipend": 20000,
+        "Duration": "6 Months",
+        "End Date": "2026-05-29",
+        "Required Skills": [
+            "Python",
+            "Java",
+            "SQL"
+        ],
+        "Location": "Ahmedabad"
+    },
+    {
+        "Title": "Research Assistant",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech ME",
+        "Sector": "Research",
+        "Stipend": 0,
+        "Duration": "3 Months",
+        "End Date": "2026-01-21",
+        "Required Skills": [
+            "SQL",
+            "CAD",
+            "Cybersecurity",
+            "UI/UX Design"
+        ],
+        "Location": "Remote"
+    },
+    {
+        "Title": "Cybersecurity Intern",
+        "Description": "Design wireframes, prototypes, and app screens.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "B.Tech ECE",
+        "Sector": "Research",
+        "Stipend": 5000,
+        "Duration": "2 Months",
+        "End Date": "2025-09-29",
+        "Required Skills": [
+            "Data Analysis",
+            "Machine Learning",
+            "Finance Modelling"
+        ],
+        "Location": "Kolkata"
+    },
+    {
+        "Title": "Civil Engineering Intern",
+        "Description": "Work on real-time projects with mentorship.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "PhD Mechanical",
+        "Sector": "Construction",
+        "Stipend": 20000,
+        "Duration": "1 Month",
+        "End Date": "2025-11-12",
+        "Required Skills": [
+            "Communication",
+            "Data Analysis"
+        ],
+        "Location": "Chennai"
+    },
+    {
+        "Title": "Data Analyst Intern",
+        "Description": "Help with market analysis and promotional campaigns.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "Research",
+        "Stipend": 10000,
+        "Duration": "3 Months",
+        "End Date": "2026-07-05",
+        "Required Skills": [
+            "Java",
+            "UI/UX Design",
+            "Communication"
+        ],
+        "Location": "Kolkata"
+    },
+    {
+        "Title": "UI/UX Designer Intern",
+        "Description": "Hands-on experience with machinery and CAD tools.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "MBA Marketing",
+        "Sector": "Government",
+        "Stipend": 12000,
+        "Duration": "6 Months",
+        "End Date": "2026-04-03",
+        "Required Skills": [
+            "UI/UX Design",
+            "Python",
+            "CAD"
+        ],
+        "Location": "Mumbai"
+    },
+    {
+        "Title": "Marketing Intern",
+        "Description": "Work on threat detection and network monitoring.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "M.Tech CSE",
+        "Sector": "Manufacturing",
+        "Stipend": 5000,
+        "Duration": "2 Months",
+        "End Date": "2026-04-09",
+        "Required Skills": [
+            "CAD",
+            "C++"
+        ],
+        "Location": "Kolkata"
+    },
+    {
+        "Title": "Civil Engineering Intern",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Healthcare",
+        "Stipend": 0,
+        "Duration": "2 Months",
+        "End Date": "2026-04-05",
+        "Required Skills": [
+            "Java",
+            "Python",
+            "Communication",
+            "SQL"
+        ],
+        "Location": "Chennai"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Work on threat detection and network monitoring.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "PhD Mechanical",
+        "Sector": "Healthcare",
+        "Stipend": 5000,
+        "Duration": "2 Months",
+        "End Date": "2025-09-29",
+        "Required Skills": [
+            "Java",
+            "CAD",
+            "Machine Learning"
+        ],
+        "Location": "Remote"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Assist in data cleaning, visualization, and reporting.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "PhD Mechanical",
+        "Sector": "Research",
+        "Stipend": 0,
+        "Duration": "1 Month",
+        "End Date": "2026-03-29",
+        "Required Skills": [
+            "UI/UX Design",
+            "Finance Modelling",
+            "Cybersecurity",
+            "Communication"
+        ],
+        "Location": "Delhi"
+    },
+    {
+        "Title": "Cybersecurity Intern",
+        "Description": "Hands-on experience with machinery and CAD tools.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "M.Tech CSE",
+        "Sector": "Manufacturing",
+        "Stipend": 0,
+        "Duration": "6 Months",
+        "End Date": "2025-10-28",
+        "Required Skills": [
+            "Cybersecurity",
+            "C++",
+            "UI/UX Design"
+        ],
+        "Location": "Pune"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Work on real-time projects with mentorship.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Construction",
+        "Stipend": 5000,
+        "Duration": "6 Months",
+        "End Date": "2025-11-28",
+        "Required Skills": [
+            "UI/UX Design",
+            "Cybersecurity",
+            "Finance Modelling"
+        ],
+        "Location": "Chennai"
+    },
+    {
+        "Title": "Cybersecurity Intern",
+        "Description": "Design wireframes, prototypes, and app screens.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "PhD Mechanical",
+        "Sector": "Finance",
+        "Stipend": 12000,
+        "Duration": "3 Months",
+        "End Date": "2025-11-15",
+        "Required Skills": [
+            "Communication",
+            "Cybersecurity",
+            "Machine Learning",
+            "Java"
+        ],
+        "Location": "Mumbai"
+    },
+    {
+        "Title": "Research Assistant",
+        "Description": "Develop machine learning models and datasets.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Manufacturing",
+        "Stipend": 12000,
+        "Duration": "1 Month",
+        "End Date": "2026-07-09",
+        "Required Skills": [
+            "Machine Learning",
+            "Communication",
+            "Finance Modelling"
+        ],
+        "Location": "Remote"
+    },
+    {
+        "Title": "Mechanical Intern",
+        "Description": "Assist in data cleaning, visualization, and reporting.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech ECE",
+        "Sector": "Manufacturing",
+        "Stipend": 8000,
+        "Duration": "6 Months",
+        "End Date": "2026-02-14",
+        "Required Skills": [
+            "SQL",
+            "UI/UX Design",
+            "Finance Modelling",
+            "Python"
+        ],
+        "Location": "Kolkata"
+    },
+    {
+        "Title": "Marketing Intern",
+        "Description": "Assist in data cleaning, visualization, and reporting.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "MBA Marketing",
+        "Sector": "Research",
+        "Stipend": 8000,
+        "Duration": "1 Month",
+        "End Date": "2026-04-09",
+        "Required Skills": [
+            "CAD",
+            "C++",
+            "Finance Modelling"
+        ],
+        "Location": "Kolkata"
+    },
+    {
+        "Title": "Data Analyst Intern",
+        "Description": "Design wireframes, prototypes, and app screens.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "B.Tech CSE",
+        "Sector": "Research",
+        "Stipend": 15000,
+        "Duration": "2 Months",
+        "End Date": "2026-03-13",
+        "Required Skills": [
+            "CAD",
+            "Data Analysis"
+        ],
+        "Location": "Kolkata"
+    },
+    {
+        "Title": "Data Analyst Intern",
+        "Description": "Develop machine learning models and datasets.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "M.Tech CSE",
+        "Sector": "Government",
+        "Stipend": 20000,
+        "Duration": "2 Months",
+        "End Date": "2026-08-24",
+        "Required Skills": [
+            "CAD",
+            "Python"
+        ],
+        "Location": "Mumbai"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Assist in data cleaning, visualization, and reporting.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "M.Tech AI",
+        "Sector": "IT",
+        "Stipend": 10000,
+        "Duration": "3 Months",
+        "End Date": "2026-06-11",
+        "Required Skills": [
+            "UI/UX Design",
+            "Finance Modelling"
+        ],
+        "Location": "Pune"
+    },
+    {
+        "Title": "Civil Engineering Intern",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "Education",
+        "Stipend": 15000,
+        "Duration": "6 Months",
+        "End Date": "2026-08-05",
+        "Required Skills": [
+            "Communication",
+            "Java",
+            "C++"
+        ],
+        "Location": "Delhi"
+    },
+    {
+        "Title": "Cybersecurity Intern",
+        "Description": "Work on threat detection and network monitoring.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Government",
+        "Stipend": 20000,
+        "Duration": "6 Months",
+        "End Date": "2025-11-06",
+        "Required Skills": [
+            "Java",
+            "UI/UX Design"
+        ],
+        "Location": "Delhi"
+    },
+    {
+        "Title": "Software Intern",
+        "Description": "Work on real-time projects with mentorship.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech ECE",
+        "Sector": "IT",
+        "Stipend": 15000,
+        "Duration": "1 Month",
+        "End Date": "2026-08-19",
+        "Required Skills": [
+            "SQL",
+            "UI/UX Design",
+            "Machine Learning"
+        ],
+        "Location": "Hyderabad"
+    },
+    {
+        "Title": "Cybersecurity Intern",
+        "Description": "Work on real-time projects with mentorship.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "M.Tech CSE",
+        "Sector": "Healthcare",
+        "Stipend": 15000,
+        "Duration": "2 Months",
+        "End Date": "2026-05-13",
+        "Required Skills": [
+            "Cybersecurity",
+            "Communication",
+            "Machine Learning"
+        ],
+        "Location": "Bangalore"
+    },
+    {
+        "Title": "Cybersecurity Intern",
+        "Description": "Work on real-time projects with mentorship.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "PhD Mechanical",
+        "Sector": "Finance",
+        "Stipend": 12000,
+        "Duration": "2 Months",
+        "End Date": "2026-07-06",
+        "Required Skills": [
+            "UI/UX Design",
+            "Python",
+            "Machine Learning",
+            "Java"
+        ],
+        "Location": "Delhi"
+    },
+    {
+        "Title": "UI/UX Designer Intern",
+        "Description": "Work on threat detection and network monitoring.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "B.Tech ME",
+        "Sector": "Research",
+        "Stipend": 8000,
+        "Duration": "2 Months",
+        "End Date": "2026-08-10",
+        "Required Skills": [
+            "Data Analysis",
+            "Finance Modelling",
+            "UI/UX Design",
+            "Cybersecurity"
+        ],
+        "Location": "Pune"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Hands-on experience with machinery and CAD tools.",
+        "Eligibility Year": "Final Year",
+        "Eligibility Degree": "B.Tech ME",
+        "Sector": "Government",
+        "Stipend": 5000,
+        "Duration": "6 Months",
+        "End Date": "2025-12-20",
+        "Required Skills": [
+            "Communication",
+            "C++",
+            "Finance Modelling"
+        ],
+        "Location": "Pune"
+    },
+    {
+        "Title": "Research Assistant",
+        "Description": "Design wireframes, prototypes, and app screens.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "PhD Computer Science",
+        "Sector": "Manufacturing",
+        "Stipend": 5000,
+        "Duration": "1 Month",
+        "End Date": "2026-05-05",
+        "Required Skills": [
+            "C++",
+            "Cybersecurity",
+            "Java",
+            "Finance Modelling"
+        ],
+        "Location": "Bangalore"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Assist in data cleaning, visualization, and reporting.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "PhD Computer Science",
+        "Sector": "Construction",
+        "Stipend": 15000,
+        "Duration": "2 Months",
+        "End Date": "2025-10-28",
+        "Required Skills": [
+            "Finance Modelling",
+            "CAD",
+            "Data Analysis"
+        ],
+        "Location": "Jaipur"
+    },
+    {
+        "Title": "UI/UX Designer Intern",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "B.Tech CSE",
+        "Sector": "Finance",
+        "Stipend": 15000,
+        "Duration": "3 Months",
+        "End Date": "2025-10-28",
+        "Required Skills": [
+            "Java",
+            "C++",
+            "CAD"
+        ],
+        "Location": "Remote"
+    },
+    {
+        "Title": "Research Assistant",
+        "Description": "Work on real-time projects with mentorship.",
+        "Eligibility Year": "2nd Year",
+        "Eligibility Degree": "B.Tech CE",
+        "Sector": "Finance",
+        "Stipend": 8000,
+        "Duration": "6 Months",
+        "End Date": "2025-10-10",
+        "Required Skills": [
+            "Python",
+            "Finance Modelling",
+            "C++"
+        ],
+        "Location": "Pune"
+    },
+    {
+        "Title": "Finance Intern",
+        "Description": "Work on threat detection and network monitoring.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech ME",
+        "Sector": "Healthcare",
+        "Stipend": 10000,
+        "Duration": "6 Months",
+        "End Date": "2025-10-11",
+        "Required Skills": [
+            "C++",
+            "SQL",
+            "Data Analysis",
+            "CAD"
+        ],
+        "Location": "Delhi"
+    },
+    {
+        "Title": "Civil Engineering Intern",
+        "Description": "Help with market analysis and promotional campaigns.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "PhD Mechanical",
+        "Sector": "Education",
+        "Stipend": 8000,
+        "Duration": "6 Months",
+        "End Date": "2025-11-09",
+        "Required Skills": [
+            "Java",
+            "Finance Modelling",
+            "Python"
+        ],
+        "Location": "Delhi"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Assist in construction planning and site supervision.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "M.Tech AI",
+        "Sector": "Government",
+        "Stipend": 20000,
+        "Duration": "2 Months",
+        "End Date": "2026-06-09",
+        "Required Skills": [
+            "Finance Modelling",
+            "CAD",
+            "C++",
+            "Java"
+        ],
+        "Location": "Mumbai"
+    },
+    {
+        "Title": "UI/UX Designer Intern",
+        "Description": "Assist in data cleaning, visualization, and reporting.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "MBA Finance",
+        "Sector": "Education",
+        "Stipend": 10000,
+        "Duration": "2 Months",
+        "End Date": "2025-10-31",
+        "Required Skills": [
+            "CAD",
+            "Cybersecurity"
+        ],
+        "Location": "Chennai"
+    },
+    {
+        "Title": "AI/ML Intern",
+        "Description": "Develop machine learning models and datasets.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "MBA Marketing",
+        "Sector": "Finance",
+        "Stipend": 0,
+        "Duration": "3 Months",
+        "End Date": "2025-11-20",
+        "Required Skills": [
+            "Python",
+            "Communication"
+        ],
+        "Location": "Chennai"
+    },
+    {
+        "Title": "Research Assistant",
+        "Description": "Work on threat detection and network monitoring.",
+        "Eligibility Year": "Postgraduate",
+        "Eligibility Degree": "B.Tech ECE",
+        "Sector": "Finance",
+        "Stipend": 20000,
+        "Duration": "1 Month",
+        "End Date": "2026-04-11",
+        "Required Skills": [
+            "Data Analysis",
+            "Communication",
+            "Cybersecurity"
+        ],
+        "Location": "Jaipur"
+    },
+    {
+        "Title": "Cybersecurity Intern",
+        "Description": "Support ongoing research and prepare documentation.",
+        "Eligibility Year": "3rd Year",
+        "Eligibility Degree": "B.Tech ECE",
+        "Sector": "Manufacturing",
+        "Stipend": 20000,
+        "Duration": "6 Months",
+        "End Date": "2025-10-04",
+        "Required Skills": [
+            "C++",
+            "Finance Modelling",
+            "Data Analysis"
+        ],
+        "Location": "Pune"
+    }
+]

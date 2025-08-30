@@ -1,0 +1,10 @@
+Flask
+Flask-CORS
+pymongo
+python-dotenv # For loading environment variables like MongoDB URI
+scikit-learn
+numpy
+scipy
+joblib
+threadpoolctl
+nltk
