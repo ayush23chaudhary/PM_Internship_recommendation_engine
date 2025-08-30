@@ -10,7 +10,6 @@ def ml_based_recommend_mongo(user, internships, top_n=5):
         return []
 
     # Combine text for TF-IDF
-    # texts = [f"{row.get('Title','')} {" ".join([ele for index, ele in enumerate(row.get("Required Skills",[]))])} {row.get('Description','')} {row.get('Sector','')} {row.get('Location','')}" for row in eligible]
     texts = [f"{row.get("combined_text")}" for row in eligible]
     user_text = " ".join([ele.lower() for index, ele in enumerate(user.get("Skills",""))]) + " " + user.get("Sector", "").lower() + " " + user.get("Location_preference", "").lower()
 
