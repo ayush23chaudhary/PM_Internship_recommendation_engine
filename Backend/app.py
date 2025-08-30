@@ -51,12 +51,6 @@ def recommend_internships():
         # Ml Based Recommendation
         recommended_internships = ml_based_recommend_mongo(candidate_profile, recommendations)
 
-        # Select top 3-5 recommendations that have a score > 0
-        # final_recommendations = [rec for rec in scored_internships[:5] if rec['score'] > 0]
-        
-        # Format the output for the front-end
-        # The structure of `internship` is already suitable for JSON after the _id conversion
-        # return jsonify(final_recommendations)
         return jsonify(recommended_internships)
 
     except ConnectionError as ce:

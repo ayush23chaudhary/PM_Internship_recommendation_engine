@@ -1,5 +1,4 @@
 import re
-# import json
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 import nltk
@@ -9,36 +8,65 @@ nltk.download('wordnet')
 # Initialize the lemmatizer
 lemmatizer = WordNetLemmatizer()
 
-
 def preprocess_degree(degree_str):
     """
-    Handles cases like:
-    'Masters in Technology (M.Tech) / Bachelor of Technology (B.Tech)'
-    Returns: ['masters in technology', 'mtech', 'bachelor of technology', 'btech']
+    Preprocesses degree strings into full forms and abbreviations.
+    
+    Handles:
+    - "Masters in Technology (M.Tech) / Bachelor of Technology (B.Tech)"
+    - "Master in Technology(M.Tech), Bachelor of Technology(B.Tech)"
+    
+    Returns: 
+    ['masters in technology', 'mtech', 'bachelor of technology', 'btech']
     """
     degree_str = degree_str.lower().strip()
 
-    # Split multiple degrees separated by "/" or ","
+    # Split multiple degrees separated by "/" or "," 
     parts = re.split(r"[/,]", degree_str)
 
     processed = []
     for part in parts:
         part = part.strip()
 
-        # Extract short forms inside brackets
+        # Extract text inside brackets () → short forms
         match = re.findall(r"\((.*?)\)", part)
         short_forms = [re.sub(r"\.", "", m).strip() for m in match]
 
-        # Remove bracket text to get full form
+        # Extract full form → remove brackets + dots
         full_form = re.sub(r"\(.*?\)", "", part).strip()
         full_form = re.sub(r"\.", "", full_form)
 
-        # Add full form + short forms
         if full_form:
             processed.append(full_form)
         processed.extend(short_forms)
 
-    return list(set(processed))  # remove duplicates
+    # Normalize spacing
+    processed = [re.sub(r"\s+", " ", p).strip() for p in processed if p]
+
+    return list(set(processed))  # unique only
+
+
+#change
+def normalize_eligibility(value: str) -> str: #eligibility_year_preprocessing
+    value = value.lower().strip()
+
+    mapping = {
+        # Undergraduate variations
+        "1st year": "1", "first year": "1", "1 year": "1", "1": "1",
+        "2nd year": "2", "second year": "2", "2 year": "2", "2": "2",
+        "3rd year": "3", "third year": "3", "3 year": "3", "3": "3",
+        "4th year": "4", "fourth year": "4", "4 year": "4", "4": "4",
+
+        # Postgraduate variations
+        "postgraduate": "PG", "pg": "PG",
+        "pg-1": "1", "pg 1st year": "1", "pg first year": "1",
+        "pg-2": "2", "pg 2nd year": "2", "pg second year": "2",
+        
+        # Undergraduate shorthand
+        "undergraduate": "UG", "ug": "UG"
+    }
+
+    return mapping.get(value, value)  # if not found, keep original
 
 
 def preprocess_internship_data(internship_data):
