@@ -59,8 +59,8 @@ def normalize_eligibility(value: str) -> str: #eligibility_year_preprocessing
 
         # Postgraduate variations
         "postgraduate": "PG", "pg": "PG",
-        "pg-1": "1", "pg 1st year": "1", "pg first year": "1",
-        "pg-2": "2", "pg 2nd year": "2", "pg second year": "2",
+        # "pg-1": "1", "pg 1st year": "1", "pg first year": "1",
+        # "pg-2": "2", "pg 2nd year": "2", "pg second year": "2",
         
         # Undergraduate shorthand
         "undergraduate": "UG", "ug": "UG"
