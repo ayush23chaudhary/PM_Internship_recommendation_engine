@@ -1,0 +1,67 @@
+# Gitignore for the 'internship_recommendation' project
+# Covers Flask backend, React/Tailwind frontend, and common development files.
+
+# --- Global Ignores ---
+# Operating System files
+.DS_Store
+.env*
+.vscode/
+
+# Package manager files
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# pnpm
+pnpm-lock.yaml
+pnpm-debug.log*
+
+# Python specific files (backend)
+# Byte-code files
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+/backend/venv/ # Specific to backend virtual environment
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+/backend/internships.db # Specifically ignore the SQLite database file
+
+# Logs
+*.log
+logs/
+
+# --- Frontend Specific Ignores (React/Vite/Tailwind) ---
+/frontend/dist/           # Vite build output directory
+/frontend/out/            # (If using CRA, often 'build' or 'out')
+/frontend/build/          # React build output directory
+
+# Tailwind CSS generated files
+/frontend/src/index.css   # If you generated a full output CSS from Tailwind utility classes
+
+# Dotfiles
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vite-specific files
+.vite/
+
+# --- Backend Specific Ignores (Flask) ---
+/backend/.env             # Environment variables for Flask
+/backend/instance/        # Flask instance folder (often used for config, SQLite dbs)
+
+# Editor and IDE Specific Files
+.idea/                     # JetBrains IDEs (PyCharm, IntelliJ)
+.vscode/                   # VS Code settings (if not shared)
