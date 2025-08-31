@@ -14,7 +14,7 @@ from utils.ml_based_recommendation import ml_based_recommend_mongo
 from utils.db_utils import get_mongo_collection # Renamed to reflect MongoDB
 
 app = Flask(__name__)
-CORS(app) # Enable CORS for all routes
+CORS(app, resources={r"/*": {"origins": "https://pm-internship-recommendation-engine.vercel.app"}}) # Enable CORS for all routes
 
 # --- Flask API Endpoint ---
 
