@@ -14,7 +14,7 @@ CORS(app) # Enable CORS for all routes
 
 # --- Flask API Endpoint ---
 
-@app.route('/recommend', methods=['GET'])
+@app.route('/recommend', methods=['POST'])
 def recommend_internships():
     try:
         candidate_profile = request.get_json()
