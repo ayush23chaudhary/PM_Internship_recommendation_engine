@@ -316,7 +316,7 @@ export const InternshipForm = () => {
                       <div><span className="font-medium">Duration:</span> {rec.Duration}</div>
                       <div><span className="font-medium">Stipend:</span> {rec.Stipend}</div>
                       <div><span className="font-medium">Location:</span> {rec.Location}</div>
-                      <div><span className="font-medium">End Date:</span> {rec.EndDate}</div>
+                      <div><span className="font-medium">End Date:</span> {rec["End Date"]}</div>
                     </div>
                     <Button
                       className="mt-2"
