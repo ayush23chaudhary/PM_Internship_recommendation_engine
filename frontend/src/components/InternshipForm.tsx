@@ -154,6 +154,15 @@ export const InternshipForm = () => {
     setSelectedSkills([]);
   };
 
+  const Required_Skills = (skills)=>{
+    let str = "";
+    skills.forEach((skill)=>{
+      str+=skill;
+    });
+
+    return str;
+  }
+
   return (
     <Card className="w-full">
       <CardHeader>
@@ -312,6 +321,7 @@ export const InternshipForm = () => {
                   </CardHeader>
                   <CardContent>
                     <p className="mb-2">{rec.Description}</p>
+                    <p className="mb-2">{Required_Skills(rec["Required Skills"])}</p>
                     <div className="grid grid-cols-2 gap-2 text-sm mb-2">
                       <div><span className="font-medium">Duration:</span> {rec.Duration}</div>
                       <div><span className="font-medium">Stipend:</span> {rec.Stipend}</div>
