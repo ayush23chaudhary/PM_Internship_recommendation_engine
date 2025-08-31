@@ -122,7 +122,7 @@ export const InternshipForm = () => {
 
       // Simulate API call
       // await new Promise(resolve => setTimeout(resolve, 1000));
-      const response = await axios.post("http://localhost:5000/recommend", data, {
+      const response = await axios.post("https://pm-internship-recommendation-engine-63pz.onrender.com/recommend", data, {
           headers: {
             "Content-Type": "application/json",
           },
