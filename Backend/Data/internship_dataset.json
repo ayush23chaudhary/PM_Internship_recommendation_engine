@@ -7,7 +7,7 @@
     "Sector": "Manufacturing",
     "Stipend": 15000,
     "Duration": "3 Months",
-    "End Date": "2025-11-24",
+    "EndDate": "2025-11-24",
     "Required Skills": ["CAD", "Communication", "Python", "C++"],
     "Location": "Bangalore"
   },
@@ -19,7 +19,7 @@
     "Sector": "Research",
     "Stipend": 15000,
     "Duration": "1 Month",
-    "End Date": "2026-02-03",
+    "EndDate": "2026-02-03",
     "Required Skills": ["CAD", "C++"],
     "Location": "Remote"
   },
@@ -31,7 +31,7 @@
     "Sector": "Government",
     "Stipend": 0,
     "Duration": "2 Months",
-    "End Date": "2026-01-19",
+    "EndDate": "2026-01-19",
     "Required Skills": ["Java", "UI/UX Design"],
     "Location": "Ahmedabad"
   },
@@ -43,7 +43,7 @@
     "Sector": "Healthcare",
     "Stipend": 0,
     "Duration": "3 Months",
-    "End Date": "2025-11-30",
+    "EndDate": "2025-11-30",
     "Required Skills": ["Machine Learning", "Cybersecurity"],
     "Location": "Remote"
   },
@@ -55,7 +55,7 @@
     "Sector": "IT",
     "Stipend": 10000,
     "Duration": "3 Months",
-    "End Date": "2026-04-14",
+    "EndDate": "2026-04-14",
     "Required Skills": ["Cybersecurity", "Machine Learning"],
     "Location": "Delhi"
   },
@@ -67,7 +67,7 @@
     "Sector": "IT",
     "Stipend": 15000,
     "Duration": "6 Months",
-    "End Date": "2026-07-12",
+    "EndDate": "2026-07-12",
     "Required Skills": ["Finance Modelling", "Java", "SQL", "UI/UX Design"],
     "Location": "Jaipur"
   },
@@ -79,7 +79,7 @@
     "Sector": "Education",
     "Stipend": 8000,
     "Duration": "2 Months",
-    "End Date": "2026-07-31",
+    "EndDate": "2026-07-31",
     "Required Skills": [
       "Finance Modelling",
       "Machine Learning",
@@ -96,7 +96,7 @@
     "Sector": "Government",
     "Stipend": 5000,
     "Duration": "3 Months",
-    "End Date": "2026-05-17",
+    "EndDate": "2026-05-17",
     "Required Skills": [
       "Machine Learning",
       "UI/UX Design",
@@ -113,7 +113,7 @@
     "Sector": "Government",
     "Stipend": 0,
     "Duration": "2 Months",
-    "End Date": "2026-01-18",
+    "EndDate": "2026-01-18",
     "Required Skills": ["Communication", "UI/UX Design"],
     "Location": "Ahmedabad"
   },
@@ -125,7 +125,7 @@
     "Sector": "Construction",
     "Stipend": 5000,
     "Duration": "1 Month",
-    "End Date": "2025-12-23",
+    "EndDate": "2025-12-23",
     "Required Skills": ["Communication", "Data Analysis", "Machine Learning"],
     "Location": "Delhi"
   },
@@ -137,7 +137,7 @@
     "Sector": "Education",
     "Stipend": 20000,
     "Duration": "2 Months",
-    "End Date": "2026-02-17",
+    "EndDate": "2026-02-17",
     "Required Skills": ["Communication", "Machine Learning", "Java"],
     "Location": "Bangalore"
   },
@@ -149,7 +149,7 @@
     "Sector": "Education",
     "Stipend": 15000,
     "Duration": "1 Month",
-    "End Date": "2026-07-06",
+    "EndDate": "2026-07-06",
     "Required Skills": ["Finance Modelling", "Machine Learning", "Java"],
     "Location": "Kolkata"
   },
@@ -161,7 +161,7 @@
     "Sector": "IT",
     "Stipend": 12000,
     "Duration": "6 Months",
-    "End Date": "2026-07-01",
+    "EndDate": "2026-07-01",
     "Required Skills": ["Java", "Data Analysis"],
     "Location": "Kolkata"
   },
@@ -173,7 +173,7 @@
     "Sector": "Education",
     "Stipend": 15000,
     "Duration": "2 Months",
-    "End Date": "2026-06-16",
+    "EndDate": "2026-06-16",
     "Required Skills": ["UI/UX Design", "Finance Modelling"],
     "Location": "Kolkata"
   },
@@ -185,7 +185,7 @@
     "Sector": "Construction",
     "Stipend": 12000,
     "Duration": "6 Months",
-    "End Date": "2026-05-19",
+    "EndDate": "2026-05-19",
     "Required Skills": ["Java", "Communication", "CAD"],
     "Location": "Pune"
   },
@@ -197,7 +197,7 @@
     "Sector": "Finance",
     "Stipend": 20000,
     "Duration": "6 Months",
-    "End Date": "2026-03-02",
+    "EndDate": "2026-03-02",
     "Required Skills": ["Data Analysis", "Python"],
     "Location": "Jaipur"
   },
@@ -209,7 +209,7 @@
     "Sector": "Healthcare",
     "Stipend": 20000,
     "Duration": "2 Months",
-    "End Date": "2026-03-09",
+    "EndDate": "2026-03-09",
     "Required Skills": ["Python", "Cybersecurity"],
     "Location": "Pune"
   },
@@ -221,7 +221,7 @@
     "Sector": "IT",
     "Stipend": 0,
     "Duration": "2 Months",
-    "End Date": "2026-02-04",
+    "EndDate": "2026-02-04",
     "Required Skills": ["Machine Learning", "Cybersecurity", "Java", "SQL"],
     "Location": "Jaipur"
   },
@@ -233,7 +233,7 @@
     "Sector": "Manufacturing",
     "Stipend": 15000,
     "Duration": "3 Months",
-    "End Date": "2025-10-01",
+    "EndDate": "2025-10-01",
     "Required Skills": ["Python", "Java", "C++"],
     "Location": "Pune"
   },
@@ -245,7 +245,7 @@
     "Sector": "Finance",
     "Stipend": 10000,
     "Duration": "3 Months",
-    "End Date": "2026-06-29",
+    "EndDate": "2026-06-29",
     "Required Skills": ["SQL", "Finance Modelling", "Cybersecurity"],
     "Location": "Chennai"
   },
@@ -257,7 +257,7 @@
     "Sector": "Government",
     "Stipend": 5000,
     "Duration": "1 Month",
-    "End Date": "2026-06-30",
+    "EndDate": "2026-06-30",
     "Required Skills": ["Communication", "Finance Modelling", "Java", "SQL"],
     "Location": "Ahmedabad"
   },
@@ -269,7 +269,7 @@
     "Sector": "Finance",
     "Stipend": 10000,
     "Duration": "3 Months",
-    "End Date": "2025-12-05",
+    "EndDate": "2025-12-05",
     "Required Skills": ["Java", "Finance Modelling"],
     "Location": "Delhi"
   },
@@ -281,7 +281,7 @@
     "Sector": "IT",
     "Stipend": 5000,
     "Duration": "1 Month",
-    "End Date": "2025-10-14",
+    "EndDate": "2025-10-14",
     "Required Skills": ["Cybersecurity", "SQL", "Machine Learning"],
     "Location": "Chennai"
   },
@@ -293,7 +293,7 @@
     "Sector": "Education",
     "Stipend": 12000,
     "Duration": "6 Months",
-    "End Date": "2026-08-10",
+    "EndDate": "2026-08-10",
     "Required Skills": ["SQL", "C++", "Python"],
     "Location": "Ahmedabad"
   },
@@ -305,7 +305,7 @@
     "Sector": "Finance",
     "Stipend": 8000,
     "Duration": "6 Months",
-    "End Date": "2025-11-17",
+    "EndDate": "2025-11-17",
     "Required Skills": ["Cybersecurity", "Communication"],
     "Location": "Chennai"
   },
@@ -317,7 +317,7 @@
     "Sector": "Manufacturing",
     "Stipend": 5000,
     "Duration": "2 Months",
-    "End Date": "2026-07-17",
+    "EndDate": "2026-07-17",
     "Required Skills": ["Communication", "SQL", "CAD"],
     "Location": "Mumbai"
   },
@@ -329,7 +329,7 @@
     "Sector": "IT",
     "Stipend": 10000,
     "Duration": "3 Months",
-    "End Date": "2026-05-11",
+    "EndDate": "2026-05-11",
     "Required Skills": ["C++", "Communication", "CAD", "Python"],
     "Location": "Bangalore"
   },
@@ -341,7 +341,7 @@
     "Sector": "Manufacturing",
     "Stipend": 8000,
     "Duration": "1 Month",
-    "End Date": "2026-06-05",
+    "EndDate": "2026-06-05",
     "Required Skills": ["Cybersecurity", "Data Analysis", "Finance Modelling"],
     "Location": "Mumbai"
   },
@@ -353,7 +353,7 @@
     "Sector": "IT",
     "Stipend": 5000,
     "Duration": "3 Months",
-    "End Date": "2026-08-23",
+    "EndDate": "2026-08-23",
     "Required Skills": ["Java", "Communication", "UI/UX Design", "CAD"],
     "Location": "Mumbai"
   },
@@ -365,7 +365,7 @@
     "Sector": "Construction",
     "Stipend": 8000,
     "Duration": "3 Months",
-    "End Date": "2025-12-03",
+    "EndDate": "2025-12-03",
     "Required Skills": ["SQL", "Cybersecurity", "CAD"],
     "Location": "Jaipur"
   },
@@ -377,7 +377,7 @@
     "Sector": "IT",
     "Stipend": 15000,
     "Duration": "2 Months",
-    "End Date": "2026-08-09",
+    "EndDate": "2026-08-09",
     "Required Skills": ["Machine Learning", "Python", "SQL", "Communication"],
     "Location": "Mumbai"
   },
@@ -389,7 +389,7 @@
     "Sector": "IT",
     "Stipend": 15000,
     "Duration": "6 Months",
-    "End Date": "2026-06-20",
+    "EndDate": "2026-06-20",
     "Required Skills": ["Java", "Cybersecurity"],
     "Location": "Remote"
   },
@@ -401,7 +401,7 @@
     "Sector": "Finance",
     "Stipend": 10000,
     "Duration": "2 Months",
-    "End Date": "2026-04-20",
+    "EndDate": "2026-04-20",
     "Required Skills": ["CAD", "C++", "SQL", "Cybersecurity"],
     "Location": "Remote"
   },
@@ -413,7 +413,7 @@
     "Sector": "IT",
     "Stipend": 0,
     "Duration": "2 Months",
-    "End Date": "2026-05-28",
+    "EndDate": "2026-05-28",
     "Required Skills": ["Machine Learning", "CAD"],
     "Location": "Chennai"
   },
@@ -425,7 +425,7 @@
     "Sector": "Construction",
     "Stipend": 10000,
     "Duration": "3 Months",
-    "End Date": "2026-01-25",
+    "EndDate": "2026-01-25",
     "Required Skills": ["Java", "C++"],
     "Location": "Bangalore"
   },
@@ -437,7 +437,7 @@
     "Sector": "Government",
     "Stipend": 8000,
     "Duration": "6 Months",
-    "End Date": "2026-03-15",
+    "EndDate": "2026-03-15",
     "Required Skills": [
       "UI/UX Design",
       "Machine Learning",
@@ -453,7 +453,7 @@
     "Sector": "Manufacturing",
     "Stipend": 12000,
     "Duration": "2 Months",
-    "End Date": "2026-07-10",
+    "EndDate": "2026-07-10",
     "Required Skills": [
       "Machine Learning",
       "UI/UX Design",
@@ -470,7 +470,7 @@
     "Sector": "Manufacturing",
     "Stipend": 15000,
     "Duration": "3 Months",
-    "End Date": "2025-10-23",
+    "EndDate": "2025-10-23",
     "Required Skills": ["Machine Learning", "Communication", "Data Analysis"],
     "Location": "Chennai"
   },
@@ -482,7 +482,7 @@
     "Sector": "Healthcare",
     "Stipend": 15000,
     "Duration": "2 Months",
-    "End Date": "2026-04-01",
+    "EndDate": "2026-04-01",
     "Required Skills": ["Java", "UI/UX Design"],
     "Location": "Remote"
   },
@@ -494,7 +494,7 @@
     "Sector": "IT",
     "Stipend": 8000,
     "Duration": "6 Months",
-    "End Date": "2025-11-25",
+    "EndDate": "2025-11-25",
     "Required Skills": ["Machine Learning", "Python"],
     "Location": "Jaipur"
   },
@@ -506,7 +506,7 @@
     "Sector": "Healthcare",
     "Stipend": 10000,
     "Duration": "1 Month",
-    "End Date": "2026-05-15",
+    "EndDate": "2026-05-15",
     "Required Skills": [
       "Cybersecurity",
       "Data Analysis",
@@ -523,7 +523,7 @@
     "Sector": "Education",
     "Stipend": 10000,
     "Duration": "2 Months",
-    "End Date": "2025-10-30",
+    "EndDate": "2025-10-30",
     "Required Skills": ["Java", "UI/UX Design"],
     "Location": "Bangalore"
   },
@@ -535,7 +535,7 @@
     "Sector": "Education",
     "Stipend": 15000,
     "Duration": "6 Months",
-    "End Date": "2026-05-24",
+    "EndDate": "2026-05-24",
     "Required Skills": ["Cybersecurity", "UI/UX Design", "C++"],
     "Location": "Delhi"
   },
@@ -547,7 +547,7 @@
     "Sector": "Finance",
     "Stipend": 20000,
     "Duration": "1 Month",
-    "End Date": "2026-03-04",
+    "EndDate": "2026-03-04",
     "Required Skills": ["Java", "C++"],
     "Location": "Hyderabad"
   },
@@ -559,7 +559,7 @@
     "Sector": "Research",
     "Stipend": 20000,
     "Duration": "6 Months",
-    "End Date": "2026-04-22",
+    "EndDate": "2026-04-22",
     "Required Skills": [
       "SQL",
       "Finance Modelling",
@@ -576,7 +576,7 @@
     "Sector": "Construction",
     "Stipend": 5000,
     "Duration": "3 Months",
-    "End Date": "2026-07-17",
+    "EndDate": "2026-07-17",
     "Required Skills": [
       "SQL",
       "Finance Modelling",
@@ -593,7 +593,7 @@
     "Sector": "Government",
     "Stipend": 0,
     "Duration": "1 Month",
-    "End Date": "2026-04-18",
+    "EndDate": "2026-04-18",
     "Required Skills": ["Machine Learning", "SQL", "Data Analysis", "Python"],
     "Location": "Pune"
   },
@@ -605,7 +605,7 @@
     "Sector": "Education",
     "Stipend": 15000,
     "Duration": "3 Months",
-    "End Date": "2026-06-18",
+    "EndDate": "2026-06-18",
     "Required Skills": ["C++", "Finance Modelling", "Communication", "SQL"],
     "Location": "Kolkata"
   },
@@ -617,7 +617,7 @@
     "Sector": "Education",
     "Stipend": 20000,
     "Duration": "6 Months",
-    "End Date": "2026-02-08",
+    "EndDate": "2026-02-08",
     "Required Skills": ["CAD", "Machine Learning", "C++", "UI/UX Design"],
     "Location": "Remote"
   },
@@ -629,7 +629,7 @@
     "Sector": "Manufacturing",
     "Stipend": 15000,
     "Duration": "6 Months",
-    "End Date": "2026-02-20",
+    "EndDate": "2026-02-20",
     "Required Skills": ["Data Analysis", "UI/UX Design", "Cybersecurity"],
     "Location": "Mumbai"
   },
@@ -641,7 +641,7 @@
     "Sector": "Manufacturing",
     "Stipend": 5000,
     "Duration": "2 Months",
-    "End Date": "2026-02-19",
+    "EndDate": "2026-02-19",
     "Required Skills": ["CAD", "UI/UX Design", "C++", "Finance Modelling"],
     "Location": "Kolkata"
   },
@@ -653,7 +653,7 @@
     "Sector": "Education",
     "Stipend": 12000,
     "Duration": "6 Months",
-    "End Date": "2025-11-26",
+    "EndDate": "2025-11-26",
     "Required Skills": ["Python", "UI/UX Design", "CAD", "Data Analysis"],
     "Location": "Chennai"
   },
@@ -665,7 +665,7 @@
     "Sector": "Research",
     "Stipend": 20000,
     "Duration": "3 Months",
-    "End Date": "2025-11-29",
+    "EndDate": "2025-11-29",
     "Required Skills": ["Java", "Data Analysis", "Machine Learning", "Python"],
     "Location": "Chennai"
   },
@@ -677,7 +677,7 @@
     "Sector": "Government",
     "Stipend": 5000,
     "Duration": "3 Months",
-    "End Date": "2025-11-23",
+    "EndDate": "2025-11-23",
     "Required Skills": ["Cybersecurity", "Machine Learning", "UI/UX Design"],
     "Location": "Bangalore"
   },
@@ -689,7 +689,7 @@
     "Sector": "Finance",
     "Stipend": 15000,
     "Duration": "3 Months",
-    "End Date": "2026-02-01",
+    "EndDate": "2026-02-01",
     "Required Skills": ["Java", "UI/UX Design"],
     "Location": "Delhi"
   },
@@ -701,7 +701,7 @@
     "Sector": "Education",
     "Stipend": 12000,
     "Duration": "1 Month",
-    "End Date": "2026-03-29",
+    "EndDate": "2026-03-29",
     "Required Skills": ["CAD", "Java", "SQL"],
     "Location": "Pune"
   },
@@ -713,7 +713,7 @@
     "Sector": "Government",
     "Stipend": 8000,
     "Duration": "6 Months",
-    "End Date": "2026-01-21",
+    "EndDate": "2026-01-21",
     "Required Skills": ["SQL", "Data Analysis", "Communication"],
     "Location": "Hyderabad"
   },
@@ -725,7 +725,7 @@
     "Sector": "Education",
     "Stipend": 20000,
     "Duration": "3 Months",
-    "End Date": "2026-04-16",
+    "EndDate": "2026-04-16",
     "Required Skills": ["CAD", "Communication"],
     "Location": "Pune"
   },
@@ -737,7 +737,7 @@
     "Sector": "IT",
     "Stipend": 8000,
     "Duration": "6 Months",
-    "End Date": "2025-12-30",
+    "EndDate": "2025-12-30",
     "Required Skills": ["C++", "Data Analysis", "UI/UX Design"],
     "Location": "Jaipur"
   },
@@ -749,7 +749,7 @@
     "Sector": "Manufacturing",
     "Stipend": 12000,
     "Duration": "2 Months",
-    "End Date": "2026-02-09",
+    "EndDate": "2026-02-09",
     "Required Skills": ["C++", "UI/UX Design", "Java"],
     "Location": "Bangalore"
   },
@@ -761,7 +761,7 @@
     "Sector": "Education",
     "Stipend": 12000,
     "Duration": "6 Months",
-    "End Date": "2026-08-02",
+    "EndDate": "2026-08-02",
     "Required Skills": ["Data Analysis", "Java", "Communication"],
     "Location": "Chennai"
   },
@@ -773,7 +773,7 @@
     "Sector": "IT",
     "Stipend": 20000,
     "Duration": "3 Months",
-    "End Date": "2026-07-08",
+    "EndDate": "2026-07-08",
     "Required Skills": ["Cybersecurity", "SQL"],
     "Location": "Mumbai"
   },
@@ -785,7 +785,7 @@
     "Sector": "Government",
     "Stipend": 0,
     "Duration": "1 Month",
-    "End Date": "2026-03-22",
+    "EndDate": "2026-03-22",
     "Required Skills": ["Data Analysis", "CAD", "UI/UX Design"],
     "Location": "Mumbai"
   },
@@ -797,7 +797,7 @@
     "Sector": "Healthcare",
     "Stipend": 20000,
     "Duration": "6 Months",
-    "End Date": "2026-05-29",
+    "EndDate": "2026-05-29",
     "Required Skills": ["Python", "Java", "SQL"],
     "Location": "Ahmedabad"
   },
@@ -809,7 +809,7 @@
     "Sector": "Research",
     "Stipend": 0,
     "Duration": "3 Months",
-    "End Date": "2026-01-21",
+    "EndDate": "2026-01-21",
     "Required Skills": ["SQL", "CAD", "Cybersecurity", "UI/UX Design"],
     "Location": "Remote"
   },
@@ -821,7 +821,7 @@
     "Sector": "Research",
     "Stipend": 5000,
     "Duration": "2 Months",
-    "End Date": "2025-09-29",
+    "EndDate": "2025-09-29",
     "Required Skills": [
       "Data Analysis",
       "Machine Learning",
@@ -837,7 +837,7 @@
     "Sector": "Construction",
     "Stipend": 20000,
     "Duration": "1 Month",
-    "End Date": "2025-11-12",
+    "EndDate": "2025-11-12",
     "Required Skills": ["Communication", "Data Analysis"],
     "Location": "Chennai"
   },
@@ -849,7 +849,7 @@
     "Sector": "Research",
     "Stipend": 10000,
     "Duration": "3 Months",
-    "End Date": "2026-07-05",
+    "EndDate": "2026-07-05",
     "Required Skills": ["Java", "UI/UX Design", "Communication"],
     "Location": "Kolkata"
   },
@@ -861,7 +861,7 @@
     "Sector": "Government",
     "Stipend": 12000,
     "Duration": "6 Months",
-    "End Date": "2026-04-03",
+    "EndDate": "2026-04-03",
     "Required Skills": ["UI/UX Design", "Python", "CAD"],
     "Location": "Mumbai"
   },
@@ -873,7 +873,7 @@
     "Sector": "Manufacturing",
     "Stipend": 5000,
     "Duration": "2 Months",
-    "End Date": "2026-04-09",
+    "EndDate": "2026-04-09",
     "Required Skills": ["CAD", "C++"],
     "Location": "Kolkata"
   },
@@ -885,7 +885,7 @@
     "Sector": "Healthcare",
     "Stipend": 0,
     "Duration": "2 Months",
-    "End Date": "2026-04-05",
+    "EndDate": "2026-04-05",
     "Required Skills": ["Java", "Python", "Communication", "SQL"],
     "Location": "Chennai"
   },
@@ -897,7 +897,7 @@
     "Sector": "Healthcare",
     "Stipend": 5000,
     "Duration": "2 Months",
-    "End Date": "2025-09-29",
+    "EndDate": "2025-09-29",
     "Required Skills": ["Java", "CAD", "Machine Learning"],
     "Location": "Remote"
   },
@@ -909,7 +909,7 @@
     "Sector": "Research",
     "Stipend": 0,
     "Duration": "1 Month",
-    "End Date": "2026-03-29",
+    "EndDate": "2026-03-29",
     "Required Skills": [
       "UI/UX Design",
       "Finance Modelling",
@@ -926,7 +926,7 @@
     "Sector": "Manufacturing",
     "Stipend": 0,
     "Duration": "6 Months",
-    "End Date": "2025-10-28",
+    "EndDate": "2025-10-28",
     "Required Skills": ["Cybersecurity", "C++", "UI/UX Design"],
     "Location": "Pune"
   },
@@ -938,7 +938,7 @@
     "Sector": "Construction",
     "Stipend": 5000,
     "Duration": "6 Months",
-    "End Date": "2025-11-28",
+    "EndDate": "2025-11-28",
     "Required Skills": ["UI/UX Design", "Cybersecurity", "Finance Modelling"],
     "Location": "Chennai"
   },
@@ -950,7 +950,7 @@
     "Sector": "Finance",
     "Stipend": 12000,
     "Duration": "3 Months",
-    "End Date": "2025-11-15",
+    "EndDate": "2025-11-15",
     "Required Skills": [
       "Communication",
       "Cybersecurity",
@@ -967,7 +967,7 @@
     "Sector": "Manufacturing",
     "Stipend": 12000,
     "Duration": "1 Month",
-    "End Date": "2026-07-09",
+    "EndDate": "2026-07-09",
     "Required Skills": [
       "Machine Learning",
       "Communication",
@@ -983,7 +983,7 @@
     "Sector": "Manufacturing",
     "Stipend": 8000,
     "Duration": "6 Months",
-    "End Date": "2026-02-14",
+    "EndDate": "2026-02-14",
     "Required Skills": ["SQL", "UI/UX Design", "Finance Modelling", "Python"],
     "Location": "Kolkata"
   },
@@ -995,7 +995,7 @@
     "Sector": "Research",
     "Stipend": 8000,
     "Duration": "1 Month",
-    "End Date": "2026-04-09",
+    "EndDate": "2026-04-09",
     "Required Skills": ["CAD", "C++", "Finance Modelling"],
     "Location": "Kolkata"
   },
@@ -1007,7 +1007,7 @@
     "Sector": "Research",
     "Stipend": 15000,
     "Duration": "2 Months",
-    "End Date": "2026-03-13",
+    "EndDate": "2026-03-13",
     "Required Skills": ["CAD", "Data Analysis"],
     "Location": "Kolkata"
   },
@@ -1019,7 +1019,7 @@
     "Sector": "Government",
     "Stipend": 20000,
     "Duration": "2 Months",
-    "End Date": "2026-08-24",
+    "EndDate": "2026-08-24",
     "Required Skills": ["CAD", "Python"],
     "Location": "Mumbai"
   },
@@ -1031,7 +1031,7 @@
     "Sector": "IT",
     "Stipend": 10000,
     "Duration": "3 Months",
-    "End Date": "2026-06-11",
+    "EndDate": "2026-06-11",
     "Required Skills": ["UI/UX Design", "Finance Modelling"],
     "Location": "Pune"
   },
@@ -1043,7 +1043,7 @@
     "Sector": "Education",
     "Stipend": 15000,
     "Duration": "6 Months",
-    "End Date": "2026-08-05",
+    "EndDate": "2026-08-05",
     "Required Skills": ["Communication", "Java", "C++"],
     "Location": "Delhi"
   },
@@ -1055,7 +1055,7 @@
     "Sector": "Government",
     "Stipend": 20000,
     "Duration": "6 Months",
-    "End Date": "2025-11-06",
+    "EndDate": "2025-11-06",
     "Required Skills": ["Java", "UI/UX Design"],
     "Location": "Delhi"
   },
@@ -1067,7 +1067,7 @@
     "Sector": "IT",
     "Stipend": 15000,
     "Duration": "1 Month",
-    "End Date": "2026-08-19",
+    "EndDate": "2026-08-19",
     "Required Skills": ["SQL", "UI/UX Design", "Machine Learning"],
     "Location": "Hyderabad"
   },
@@ -1079,7 +1079,7 @@
     "Sector": "Healthcare",
     "Stipend": 15000,
     "Duration": "2 Months",
-    "End Date": "2026-05-13",
+    "EndDate": "2026-05-13",
     "Required Skills": ["Cybersecurity", "Communication", "Machine Learning"],
     "Location": "Bangalore"
   },
@@ -1091,7 +1091,7 @@
     "Sector": "Finance",
     "Stipend": 12000,
     "Duration": "2 Months",
-    "End Date": "2026-07-06",
+    "EndDate": "2026-07-06",
     "Required Skills": ["UI/UX Design", "Python", "Machine Learning", "Java"],
     "Location": "Delhi"
   },
@@ -1103,7 +1103,7 @@
     "Sector": "Research",
     "Stipend": 8000,
     "Duration": "2 Months",
-    "End Date": "2026-08-10",
+    "EndDate": "2026-08-10",
     "Required Skills": [
       "Data Analysis",
       "Finance Modelling",
@@ -1120,7 +1120,7 @@
     "Sector": "Government",
     "Stipend": 5000,
     "Duration": "6 Months",
-    "End Date": "2025-12-20",
+    "EndDate": "2025-12-20",
     "Required Skills": ["Communication", "C++", "Finance Modelling"],
     "Location": "Pune"
   },
@@ -1132,7 +1132,7 @@
     "Sector": "Manufacturing",
     "Stipend": 5000,
     "Duration": "1 Month",
-    "End Date": "2026-05-05",
+    "EndDate": "2026-05-05",
     "Required Skills": ["C++", "Cybersecurity", "Java", "Finance Modelling"],
     "Location": "Bangalore"
   },
@@ -1144,7 +1144,7 @@
     "Sector": "Construction",
     "Stipend": 15000,
     "Duration": "2 Months",
-    "End Date": "2025-10-28",
+    "EndDate": "2025-10-28",
     "Required Skills": ["Finance Modelling", "CAD", "Data Analysis"],
     "Location": "Jaipur"
   },
@@ -1156,7 +1156,7 @@
     "Sector": "Finance",
     "Stipend": 15000,
     "Duration": "3 Months",
-    "End Date": "2025-10-28",
+    "EndDate": "2025-10-28",
     "Required Skills": ["Java", "C++", "CAD"],
     "Location": "Remote"
   },
@@ -1168,7 +1168,7 @@
     "Sector": "Finance",
     "Stipend": 8000,
     "Duration": "6 Months",
-    "End Date": "2025-10-10",
+    "EndDate": "2025-10-10",
     "Required Skills": ["Python", "Finance Modelling", "C++"],
     "Location": "Pune"
   },
@@ -1180,7 +1180,7 @@
     "Sector": "Healthcare",
     "Stipend": 10000,
     "Duration": "6 Months",
-    "End Date": "2025-10-11",
+    "EndDate": "2025-10-11",
     "Required Skills": ["C++", "SQL", "Data Analysis", "CAD"],
     "Location": "Delhi"
   },
@@ -1192,7 +1192,7 @@
     "Sector": "Education",
     "Stipend": 8000,
     "Duration": "6 Months",
-    "End Date": "2025-11-09",
+    "EndDate": "2025-11-09",
     "Required Skills": ["Java", "Finance Modelling", "Python"],
     "Location": "Delhi"
   },
@@ -1204,7 +1204,7 @@
     "Sector": "Government",
     "Stipend": 20000,
     "Duration": "2 Months",
-    "End Date": "2026-06-09",
+    "EndDate": "2026-06-09",
     "Required Skills": ["Finance Modelling", "CAD", "C++", "Java"],
     "Location": "Mumbai"
   },
@@ -1216,7 +1216,7 @@
     "Sector": "Education",
     "Stipend": 10000,
     "Duration": "2 Months",
-    "End Date": "2025-10-31",
+    "EndDate": "2025-10-31",
     "Required Skills": ["CAD", "Cybersecurity"],
     "Location": "Chennai"
   },
@@ -1228,7 +1228,7 @@
     "Sector": "Finance",
     "Stipend": 0,
     "Duration": "3 Months",
-    "End Date": "2025-11-20",
+    "EndDate": "2025-11-20",
     "Required Skills": ["Python", "Communication"],
     "Location": "Chennai"
   },
@@ -1240,7 +1240,7 @@
     "Sector": "Finance",
     "Stipend": 20000,
     "Duration": "1 Month",
-    "End Date": "2026-04-11",
+    "EndDate": "2026-04-11",
     "Required Skills": ["Data Analysis", "Communication", "Cybersecurity"],
     "Location": "Jaipur"
   },
@@ -1252,7 +1252,7 @@
     "Sector": "Manufacturing",
     "Stipend": 20000,
     "Duration": "6 Months",
-    "End Date": "2025-10-04",
+    "EndDate": "2025-10-04",
     "Required Skills": ["C++", "Finance Modelling", "Data Analysis"],
     "Location": "Pune"
   },
@@ -1264,7 +1264,7 @@
     "Sector": "Manufacturing",
     "Stipend": 15000,
     "Duration": "3 Months",
-    "End Date": "2025-11-24",
+    "EndDate": "2025-11-24",
     "Required Skills": ["CAD", "Communication", "Python", "C++"],
     "Location": "Bangalore"
   },
@@ -1276,7 +1276,7 @@
     "Sector": "Research",
     "Stipend": 15000,
     "Duration": "1 Month",
-    "End Date": "2026-02-03",
+    "EndDate": "2026-02-03",
     "Required Skills": ["CAD", "C++"],
     "Location": "Remote"
   },
@@ -1288,7 +1288,7 @@
     "Sector": "Government",
     "Stipend": 0,
     "Duration": "2 Months",
-    "End Date": "2026-01-19",
+    "EndDate": "2026-01-19",
     "Required Skills": ["Java", "UI/UX Design"],
     "Location": "Ahmedabad"
   },
@@ -1300,7 +1300,7 @@
     "Sector": "Healthcare",
     "Stipend": 0,
     "Duration": "3 Months",
-    "End Date": "2025-11-30",
+    "EndDate": "2025-11-30",
     "Required Skills": ["Machine Learning", "Cybersecurity"],
     "Location": "Remote"
   },
@@ -1312,7 +1312,7 @@
     "Sector": "IT",
     "Stipend": 10000,
     "Duration": "3 Months",
-    "End Date": "2026-04-14",
+    "EndDate": "2026-04-14",
     "Required Skills": ["Cybersecurity", "Machine Learning"],
     "Location": "Delhi"
   },
@@ -1324,7 +1324,7 @@
     "Sector": "IT",
     "Stipend": 15000,
     "Duration": "6 Months",
-    "End Date": "2026-07-12",
+    "EndDate": "2026-07-12",
     "Required Skills": ["Finance Modelling", "Java", "SQL", "UI/UX Design"],
     "Location": "Jaipur"
   },
@@ -1336,7 +1336,7 @@
     "Sector": "Education",
     "Stipend": 8000,
     "Duration": "2 Months",
-    "End Date": "2026-07-31",
+    "EndDate": "2026-07-31",
     "Required Skills": [
       "Finance Modelling",
       "Machine Learning",
@@ -1353,7 +1353,7 @@
     "Sector": "Government",
     "Stipend": 5000,
     "Duration": "3 Months",
-    "End Date": "2026-05-17",
+    "EndDate": "2026-05-17",
     "Required Skills": [
       "Machine Learning",
       "UI/UX Design",
@@ -1370,7 +1370,7 @@
     "Sector": "Government",
     "Stipend": 0,
     "Duration": "2 Months",
-    "End Date": "2026-01-18",
+    "EndDate": "2026-01-18",
     "Required Skills": ["Communication", "UI/UX Design"],
     "Location": "Ahmedabad"
   },
@@ -1382,7 +1382,7 @@
     "Sector": "Construction",
     "Stipend": 5000,
     "Duration": "1 Month",
-    "End Date": "2025-12-23",
+    "EndDate": "2025-12-23",
     "Required Skills": ["Communication", "Data Analysis", "Machine Learning"],
     "Location": "Delhi"
   },
@@ -1394,7 +1394,7 @@
     "Sector": "Education",
     "Stipend": 20000,
     "Duration": "2 Months",
-    "End Date": "2026-02-17",
+    "EndDate": "2026-02-17",
     "Required Skills": ["Communication", "Machine Learning", "Java"],
     "Location": "Bangalore"
   },
@@ -1406,7 +1406,7 @@
     "Sector": "Education",
     "Stipend": 15000,
     "Duration": "1 Month",
-    "End Date": "2026-07-06",
+    "EndDate": "2026-07-06",
     "Required Skills": ["Finance Modelling", "Machine Learning", "Java"],
     "Location": "Kolkata"
   },
@@ -1418,7 +1418,7 @@
     "Sector": "IT",
     "Stipend": 12000,
     "Duration": "6 Months",
-    "End Date": "2026-07-01",
+    "EndDate": "2026-07-01",
     "Required Skills": ["Java", "Data Analysis"],
     "Location": "Kolkata"
   },
@@ -1430,7 +1430,7 @@
     "Sector": "Education",
     "Stipend": 15000,
     "Duration": "2 Months",
-    "End Date": "2026-06-16",
+    "EndDate": "2026-06-16",
     "Required Skills": ["UI/UX Design", "Finance Modelling"],
     "Location": "Kolkata"
   },{
@@ -1441,7 +1441,7 @@
     "Sector": "Manufacturing",
     "Stipend": 15000,
     "Duration": "3 Months",
-    "End Date": "2025-11-24",
+    "EndDate": "2025-11-24",
     "Required Skills": ["CAD", "Communication", "Python", "C++"],
     "Location": "Bangalore"
   },
@@ -1453,7 +1453,7 @@
     "Sector": "Research",
     "Stipend": 15000,
     "Duration": "1 Month",
-    "End Date": "2026-02-03",
+    "EndDate": "2026-02-03",
     "Required Skills": ["CAD", "C++"],
     "Location": "Remote"
   },
@@ -1465,7 +1465,7 @@
     "Sector": "Government",
     "Stipend": 0,
     "Duration": "2 Months",
-    "End Date": "2026-01-19",
+    "EndDate": "2026-01-19",
     "Required Skills": ["Java", "UI/UX Design"],
     "Location": "Ahmedabad"
   },
@@ -1477,7 +1477,7 @@
     "Sector": "Healthcare",
     "Stipend": 0,
     "Duration": "3 Months",
-    "End Date": "2025-11-30",
+    "EndDate": "2025-11-30",
     "Required Skills": ["Machine Learning", "Cybersecurity"],
     "Location": "Remote"
   },
@@ -1489,7 +1489,7 @@
     "Sector": "IT",
     "Stipend": 10000,
     "Duration": "3 Months",
-    "End Date": "2026-04-14",
+    "EndDate": "2026-04-14",
     "Required Skills": ["Cybersecurity", "Machine Learning"],
     "Location": "Delhi"
   },
@@ -1501,7 +1501,7 @@
     "Sector": "IT",
     "Stipend": 15000,
     "Duration": "6 Months",
-    "End Date": "2026-07-12",
+    "EndDate": "2026-07-12",
     "Required Skills": ["Finance Modelling", "Java", "SQL", "UI/UX Design"],
     "Location": "Jaipur"
   },
@@ -1513,7 +1513,7 @@
     "Sector": "Education",
     "Stipend": 8000,
     "Duration": "2 Months",
-    "End Date": "2026-07-31",
+    "EndDate": "2026-07-31",
     "Required Skills": ["Finance Modelling", "Machine Learning", "UI/UX Design", "Java"],
     "Location": "Delhi"
   },
@@ -1525,7 +1525,7 @@
     "Sector": "Government",
     "Stipend": 5000,
     "Duration": "3 Months",
-    "End Date": "2026-05-17",
+    "EndDate": "2026-05-17",
     "Required Skills": ["Machine Learning", "UI/UX Design", "Data Analysis", "Finance Modelling"],
     "Location": "Pune"
   },
@@ -1537,7 +1537,7 @@
     "Sector": "Government",
     "Stipend": 0,
     "Duration": "2 Months",
-    "End Date": "2026-01-18",
+    "EndDate": "2026-01-18",
     "Required Skills": ["Communication", "UI/UX Design"],
     "Location": "Ahmedabad"
   },
@@ -1549,7 +1549,7 @@
     "Sector": "Construction",
     "Stipend": 5000,
     "Duration": "1 Month",
-    "End Date": "2025-12-23",
+    "EndDate": "2025-12-23",
     "Required Skills": ["Communication", "Data Analysis", "Machine Learning"],
     "Location": "Delhi"
   },  {
@@ -1560,7 +1560,7 @@
     "Sector": "IT",
     "Stipend": 10000,
     "Duration": "3 Months",
-    "End Date": "2026-05-11",
+    "EndDate": "2026-05-11",
     "Required Skills": ["C++", "Communication", "CAD", "Python"],
     "Location": "Bangalore"
   },
@@ -1572,7 +1572,7 @@
     "Sector": "Manufacturing",
     "Stipend": 8000,
     "Duration": "1 Month",
-    "End Date": "2026-06-05",
+    "EndDate": "2026-06-05",
     "Required Skills": ["Cybersecurity", "Data Analysis", "Finance Modelling"],
     "Location": "Mumbai"
   },
@@ -1584,7 +1584,7 @@
     "Sector": "IT",
     "Stipend": 5000,
     "Duration": "3 Months",
-    "End Date": "2026-08-23",
+    "EndDate": "2026-08-23",
     "Required Skills": ["Java", "Communication", "UI/UX Design", "CAD"],
     "Location": "Mumbai"
   },
@@ -1596,7 +1596,7 @@
     "Sector": "Construction",
     "Stipend": 8000,
     "Duration": "3 Months",
-    "End Date": "2025-12-03",
+    "EndDate": "2025-12-03",
     "Required Skills": ["SQL", "Cybersecurity", "CAD"],
     "Location": "Jaipur"
   },
@@ -1608,7 +1608,7 @@
     "Sector": "IT",
     "Stipend": 15000,
     "Duration": "2 Months",
-    "End Date": "2026-08-09",
+    "EndDate": "2026-08-09",
     "Required Skills": ["Machine Learning", "Python", "SQL", "Communication"],
     "Location": "Mumbai"
   },
@@ -1620,7 +1620,7 @@
     "Sector": "IT",
     "Stipend": 15000,
     "Duration": "6 Months",
-    "End Date": "2026-06-20",
+    "EndDate": "2026-06-20",
     "Required Skills": ["Java", "Cybersecurity"],
     "Location": "Remote"
   },
@@ -1632,7 +1632,7 @@
     "Sector": "Finance",
     "Stipend": 10000,
     "Duration": "2 Months",
-    "End Date": "2026-04-20",
+    "EndDate": "2026-04-20",
     "Required Skills": ["CAD", "C++", "SQL", "Cybersecurity"],
     "Location": "Remote"
   },
@@ -1644,7 +1644,7 @@
     "Sector": "IT",
     "Stipend": 0,
     "Duration": "2 Months",
-    "End Date": "2026-05-28",
+    "EndDate": "2026-05-28",
     "Required Skills": ["Machine Learning", "CAD"],
     "Location": "Chennai"
   },
@@ -1656,7 +1656,7 @@
     "Sector": "Construction",
     "Stipend": 10000,
     "Duration": "3 Months",
-    "End Date": "2026-01-25",
+    "EndDate": "2026-01-25",
     "Required Skills": ["Java", "C++"],
     "Location": "Bangalore"
   },
@@ -1668,7 +1668,7 @@
     "Sector": "Government",
     "Stipend": 8000,
     "Duration": "6 Months",
-    "End Date": "2026-03-15",
+    "EndDate": "2026-03-15",
     "Required Skills": ["UI/UX Design", "Machine Learning", "Finance Modelling"],
     "Location": "Jaipur"
   },
@@ -1680,7 +1680,7 @@
     "Sector": "Manufacturing",
     "Stipend": 12000,
     "Duration": "2 Months",
-    "End Date": "2026-07-10",
+    "EndDate": "2026-07-10",
     "Required Skills": ["Machine Learning", "UI/UX Design", "Communication", "Python"],
     "Location": "Remote"
   },
@@ -1692,7 +1692,7 @@
     "Sector": "Manufacturing",
     "Stipend": 15000,
     "Duration": "3 Months",
-    "End Date": "2025-10-23",
+    "EndDate": "2025-10-23",
     "Required Skills": ["Machine Learning", "Communication", "Data Analysis"],
     "Location": "Chennai"
   },
@@ -1704,7 +1704,7 @@
     "Sector": "Healthcare",
     "Stipend": 15000,
     "Duration": "2 Months",
-    "End Date": "2026-04-01",
+    "EndDate": "2026-04-01",
     "Required Skills": ["Java", "UI/UX Design"],
     "Location": "Remote"
   },
@@ -1716,7 +1716,7 @@
     "Sector": "IT",
     "Stipend": 8000,
     "Duration": "6 Months",
-    "End Date": "2025-11-25",
+    "EndDate": "2025-11-25",
     "Required Skills": ["Machine Learning", "Python"],
     "Location": "Jaipur"
   },
@@ -1728,7 +1728,7 @@
     "Sector": "Healthcare",
     "Stipend": 10000,
     "Duration": "1 Month",
-    "End Date": "2026-05-15",
+    "EndDate": "2026-05-15",
     "Required Skills": ["Cybersecurity", "Data Analysis", "Communication", "CAD"],
     "Location": "Delhi"
   },  {
@@ -1739,7 +1739,7 @@
     "Sector": "Education",
     "Stipend": 10000,
     "Duration": "2 Months",
-    "End Date": "2025-10-30",
+    "EndDate": "2025-10-30",
     "Required Skills": ["Java", "UI/UX Design"],
     "Location": "Bangalore"
   },
@@ -1751,7 +1751,7 @@
     "Sector": "Education",
     "Stipend": 15000,
     "Duration": "6 Months",
-    "End Date": "2026-05-24",
+    "EndDate": "2026-05-24",
     "Required Skills": ["Cybersecurity", "UI/UX Design", "C++"],
     "Location": "Delhi"
   },
@@ -1763,7 +1763,7 @@
     "Sector": "Finance",
     "Stipend": 20000,
     "Duration": "1 Month",
-    "End Date": "2026-03-04",
+    "EndDate": "2026-03-04",
     "Required Skills": ["Java", "C++"],
     "Location": "Hyderabad"
   },
@@ -1775,7 +1775,7 @@
     "Sector": "Research",
     "Stipend": 20000,
     "Duration": "6 Months",
-    "End Date": "2026-04-22",
+    "EndDate": "2026-04-22",
     "Required Skills": ["SQL", "Finance Modelling", "Communication", "Machine Learning"],
     "Location": "Remote"
   },
@@ -1787,7 +1787,7 @@
     "Sector": "Construction",
     "Stipend": 5000,
     "Duration": "3 Months",
-    "End Date": "2026-07-17",
+    "EndDate": "2026-07-17",
     "Required Skills": ["SQL", "Finance Modelling", "Machine Learning", "Communication"],
     "Location": "Ahmedabad"
   },
@@ -1799,7 +1799,7 @@
     "Sector": "Government",
     "Stipend": 0,
     "Duration": "1 Month",
-    "End Date": "2026-04-18",
+    "EndDate": "2026-04-18",
     "Required Skills": ["Machine Learning", "SQL", "Data Analysis", "Python"],
     "Location": "Pune"
   },
@@ -1811,7 +1811,7 @@
     "Sector": "Education",
     "Stipend": 15000,
     "Duration": "3 Months",
-    "End Date": "2026-06-18",
+    "EndDate": "2026-06-18",
     "Required Skills": ["C++", "Finance Modelling", "Communication", "SQL"],
     "Location": "Kolkata"
   },
@@ -1823,7 +1823,7 @@
     "Sector": "Education",
     "Stipend": 20000,
     "Duration": "6 Months",
-    "End Date": "2026-02-08",
+    "EndDate": "2026-02-08",
     "Required Skills": ["CAD", "Machine Learning", "C++", "UI/UX Design"],
     "Location": "Remote"
   },
@@ -1835,7 +1835,7 @@
     "Sector": "Manufacturing",
     "Stipend": 15000,
     "Duration": "6 Months",
-    "End Date": "2026-02-20",
+    "EndDate": "2026-02-20",
     "Required Skills": ["Data Analysis", "UI/UX Design", "Cybersecurity"],
     "Location": "Mumbai"
   },
@@ -1847,7 +1847,7 @@
     "Sector": "Manufacturing",
     "Stipend": 5000,
     "Duration": "2 Months",
-    "End Date": "2026-02-19",
+    "EndDate": "2026-02-19",
     "Required Skills": ["CAD", "UI/UX Design", "C++", "Finance Modelling"],
     "Location": "Kolkata"
   },
@@ -1859,7 +1859,7 @@
     "Sector": "Education",
     "Stipend": 12000,
     "Duration": "6 Months",
-    "End Date": "2025-11-26",
+    "EndDate": "2025-11-26",
     "Required Skills": ["Python", "UI/UX Design", "CAD", "Data Analysis"],
     "Location": "Chennai"
   },
@@ -1871,7 +1871,7 @@
     "Sector": "Research",
     "Stipend": 20000,
     "Duration": "3 Months",
-    "End Date": "2025-11-29",
+    "EndDate": "2025-11-29",
     "Required Skills": ["Java", "Data Analysis", "Machine Learning", "Python"],
     "Location": "Chennai"
   },
@@ -1883,7 +1883,7 @@
     "Sector": "Government",
     "Stipend": 5000,
     "Duration": "3 Months",
-    "End Date": "2025-11-23",
+    "EndDate": "2025-11-23",
     "Required Skills": ["Cybersecurity", "Machine Learning", "UI/UX Design"],
     "Location": "Bangalore"
   },
@@ -1895,7 +1895,7 @@
     "Sector": "Finance",
     "Stipend": 15000,
     "Duration": "3 Months",
-    "End Date": "2026-02-01",
+    "EndDate": "2026-02-01",
     "Required Skills": ["Java", "UI/UX Design"],
     "Location": "Delhi"
   },
@@ -1907,7 +1907,7 @@
     "Sector": "Education",
     "Stipend": 12000,
     "Duration": "1 Month",
-    "End Date": "2026-03-29",
+    "EndDate": "2026-03-29",
     "Required Skills": ["CAD", "Java", "SQL"],
     "Location": "Pune"
   },  {
@@ -1918,7 +1918,7 @@
     "Sector": "IT",
     "Stipend": 10000,
     "Duration": "3 Months",
-    "End Date": "2026-06-11",
+    "EndDate": "2026-06-11",
     "Required Skills": ["UI/UX Design", "Finance Modelling"],
     "Location": "Pune"
   },
@@ -1930,7 +1930,7 @@
     "Sector": "Education",
     "Stipend": 15000,
     "Duration": "6 Months",
-    "End Date": "2026-08-05",
+    "EndDate": "2026-08-05",
     "Required Skills": ["Communication", "Java", "C++"],
     "Location": "Delhi"
   },
@@ -1942,7 +1942,7 @@
     "Sector": "Government",
     "Stipend": 20000,
     "Duration": "6 Months",
-    "End Date": "2025-11-06",
+    "EndDate": "2025-11-06",
     "Required Skills": ["Java", "UI/UX Design"],
     "Location": "Delhi"
   },
@@ -1954,7 +1954,7 @@
     "Sector": "IT",
     "Stipend": 15000,
     "Duration": "1 Month",
-    "End Date": "2026-08-19",
+    "EndDate": "2026-08-19",
     "Required Skills": ["SQL", "UI/UX Design", "Machine Learning"],
     "Location": "Hyderabad"
   },
@@ -1966,7 +1966,7 @@
     "Sector": "Healthcare",
     "Stipend": 15000,
     "Duration": "2 Months",
-    "End Date": "2026-05-13",
+    "EndDate": "2026-05-13",
     "Required Skills": ["Cybersecurity", "Communication", "Machine Learning"],
     "Location": "Bangalore"
   },
@@ -1978,7 +1978,7 @@
     "Sector": "Finance",
     "Stipend": 12000,
     "Duration": "2 Months",
-    "End Date": "2026-07-06",
+    "EndDate": "2026-07-06",
     "Required Skills": ["UI/UX Design", "Python", "Machine Learning", "Java"],
     "Location": "Delhi"
   },
@@ -1990,7 +1990,7 @@
     "Sector": "Research",
     "Stipend": 8000,
     "Duration": "2 Months",
-    "End Date": "2026-08-10",
+    "EndDate": "2026-08-10",
     "Required Skills": ["Data Analysis", "Finance Modelling", "UI/UX Design", "Cybersecurity"],
     "Location": "Pune"
   },
@@ -2002,7 +2002,7 @@
     "Sector": "Government",
     "Stipend": 5000,
     "Duration": "6 Months",
-    "End Date": "2025-12-20",
+    "EndDate": "2025-12-20",
     "Required Skills": ["Communication", "C++", "Finance Modelling"],
     "Location": "Pune"
   },
@@ -2014,7 +2014,7 @@
     "Sector": "Manufacturing",
     "Stipend": 5000,
     "Duration": "1 Month",
-    "End Date": "2026-05-05",
+    "EndDate": "2026-05-05",
     "Required Skills": ["C++", "Cybersecurity", "Java", "Finance Modelling"],
     "Location": "Bangalore"
   },
@@ -2026,7 +2026,7 @@
     "Sector": "Construction",
     "Stipend": 15000,
     "Duration": "2 Months",
-    "End Date": "2025-10-28",
+    "EndDate": "2025-10-28",
     "Required Skills": ["Finance Modelling", "CAD", "Data Analysis"],
     "Location": "Jaipur"
   },
@@ -2038,7 +2038,7 @@
     "Sector": "Finance",
     "Stipend": 15000,
     "Duration": "3 Months",
-    "End Date": "2025-10-28",
+    "EndDate": "2025-10-28",
     "Required Skills": ["Java", "C++", "CAD"],
     "Location": "Remote"
   },
@@ -2050,7 +2050,7 @@
     "Sector": "Finance",
     "Stipend": 8000,
     "Duration": "6 Months",
-    "End Date": "2025-10-10",
+    "EndDate": "2025-10-10",
     "Required Skills": ["Python", "Finance Modelling", "C++"],
     "Location": "Pune"
   },
@@ -2062,7 +2062,7 @@
     "Sector": "Healthcare",
     "Stipend": 10000,
     "Duration": "6 Months",
-    "End Date": "2025-10-11",
+    "EndDate": "2025-10-11",
     "Required Skills": ["C++", "SQL", "Data Analysis", "CAD"],
     "Location": "Delhi"
   },
@@ -2074,7 +2074,7 @@
     "Sector": "Education",
     "Stipend": 8000,
     "Duration": "6 Months",
-    "End Date": "2025-11-09",
+    "EndDate": "2025-11-09",
     "Required Skills": ["Java", "Finance Modelling", "Python"],
     "Location": "Delhi"
   }
