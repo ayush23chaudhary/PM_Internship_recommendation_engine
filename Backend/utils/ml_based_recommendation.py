@@ -26,7 +26,6 @@ def ml_based_recommend_mongo(user, internships, top_n=5):
             "Location_processed",
             "Sector_processed",
             "combined_text"
-
         ]
 
         for key in list(row.keys()):
