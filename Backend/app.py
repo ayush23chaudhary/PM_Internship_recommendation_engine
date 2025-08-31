@@ -69,4 +69,4 @@ def recommend_internships():
 
 if __name__ == '__main__':
     print("Starting Flask application with MongoDB...")
-    app.run(port=os.environ.get("PORT",5000))
+    app.run(host="0.0.0.0", port=os.environ.get("PORT",5000))
