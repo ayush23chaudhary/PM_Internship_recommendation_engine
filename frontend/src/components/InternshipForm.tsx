@@ -9,70 +9,30 @@ import { Label } from "@/components/ui/label";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Checkbox } from "@/components/ui/checkbox";
 import { useToast } from "@/hooks/use-toast";
+import axios from 'axios';
 
 // Form validation schema
 const formSchema = z.object({
-  name: z.string().min(2, "Name must be at least 2 characters"),
-  degree: z.string().min(1, "Please select a degree"),
-  year: z.string().min(1, "Please select your current study year"),
-  skills: z.array(z.string()).min(1, "Please select at least one skill"),
-  sector: z.string().min(1, "Please select a sector"),
-  stream: z.string().min(1, "Please select a stream"),
+  Name: z.string().min(2, "Name must be at least 2 characters"),
+  Degree: z.string().min(1, "Please select a degree"),
+  Year: z.string().min(1, "Please select your current study year"),
+  Skills: z.array(z.string()).min(1, "Please select at least one skill"),
+  Sector: z.string().min(1, "Please select a sector"),
+  Stream: z.string().min(1, "Please select a stream"),
 });
 
 type FormData = z.infer<typeof formSchema>;
 
 type Recommendation = {
-  title: string;
-  description: string;
-  duration: string;
-  stipend: string;
-  location: string;
-  endDate: string;
+  Title: string;
+  Description: string;
+  Duration: string;
+  Stipend: string;
+  Location: string;
+  EndDate: string;
 };
 
-const dummyRecommendations: Recommendation[] = [
-  {
-    title: "Software Development Intern",
-    description: "Work on building scalable web applications.",
-    duration: "3 months",
-    stipend: "₹10,000/month",
-    location: "Bangalore",
-    endDate: "30 Sep 2025",
-  },
-  {
-    title: "Data Analyst Intern",
-    description: "Analyze datasets and generate insights.",
-    duration: "2 months",
-    stipend: "₹8,000/month",
-    location: "Delhi",
-    endDate: "15 Oct 2025",
-  },
-  {
-    title: "Marketing Intern",
-    description: "Assist in digital marketing campaigns.",
-    duration: "1 month",
-    stipend: "₹7,000/month",
-    location: "Mumbai",
-    endDate: "10 Sep 2025",
-  },
-  {
-    title: "UI/UX Designer Intern",
-    description: "Design user interfaces for mobile apps.",
-    duration: "2 months",
-    stipend: "₹9,000/month",
-    location: "Hyderabad",
-    endDate: "25 Sep 2025",
-  },
-  {
-    title: "Finance Intern",
-    description: "Support financial analysis and reporting.",
-    duration: "3 months",
-    stipend: "₹11,000/month",
-    location: "Chennai",
-    endDate: "05 Oct 2025",
-  },
-];
+let dummyRecommendations: Recommendation[]  = []
 
 export const InternshipForm = () => {
   const { toast } = useToast();
@@ -152,7 +112,7 @@ export const InternshipForm = () => {
       updatedSkills = selectedSkills.filter(s => s !== skill);
     }
     setSelectedSkills(updatedSkills);
-    setValue("skills", updatedSkills);
+    setValue("Skills", updatedSkills);
   };
 
   const onSubmit = async (data: FormData) => {
@@ -161,7 +121,16 @@ export const InternshipForm = () => {
       console.log("Form submission data:", data);
 
       // Simulate API call
-      await new Promise(resolve => setTimeout(resolve, 1000));
+      // await new Promise(resolve => setTimeout(resolve, 1000));
+      const response = await axios.post("http://localhost:5000/recommend", data, {
+          headers: {
+            "Content-Type": "application/json",
+          },
+        });
+
+      console.log(response.data)
+
+      dummyRecommendations = response.data
 
       toast({
         title: "Application Submitted Successfully!",
@@ -200,20 +169,20 @@ export const InternshipForm = () => {
               <Label htmlFor="name">Full Name *</Label>
               <Input
                 id="name"
-                {...register("name")}
+                {...register("Name")}
                 placeholder="Enter your full name"
-                className={errors.name ? "border-destructive" : ""}
+                className={errors.Name ? "border-destructive" : ""}
               />
-              {errors.name && (
-                <p className="text-sm text-destructive">{errors.name.message}</p>
+              {errors.Name && (
+                <p className="text-sm text-destructive">{errors.Name.message}</p>
               )}
             </div>
 
             {/* Degree Field */}
             <div className="space-y-2">
               <Label htmlFor="degree">Degree *</Label>
-              <Select onValueChange={(value) => setValue("degree", value)}>
-                <SelectTrigger className={errors.degree ? "border-destructive" : ""}>
+              <Select onValueChange={(value) => setValue("Degree", value)}>
+                <SelectTrigger className={errors.Degree ? "border-destructive" : ""}>
                   <SelectValue placeholder="Select your degree" />
                 </SelectTrigger>
                 <SelectContent>
@@ -224,8 +193,8 @@ export const InternshipForm = () => {
                   ))}
                 </SelectContent>
               </Select>
-              {errors.degree && (
-                <p className="text-sm text-destructive">{errors.degree.message}</p>
+              {errors.Degree && (
+                <p className="text-sm text-destructive">{errors.Degree.message}</p>
               )}
             </div>
             
@@ -233,8 +202,8 @@ export const InternshipForm = () => {
             {/* Current Study Year Field */}
             <div className="space-y-2">
               <Label htmlFor="year">Current Study Year *</Label>
-              <Select onValueChange={(value) => setValue("year", value)}>
-                <SelectTrigger className={errors.year ? "border-destructive" : ""}>
+              <Select onValueChange={(value) => setValue("Year", value)}>
+                <SelectTrigger className={errors.Year ? "border-destructive" : ""}>
                   <SelectValue placeholder="Select your current study year" />
                 </SelectTrigger>
                 <SelectContent>
@@ -245,8 +214,8 @@ export const InternshipForm = () => {
                   ))}
                 </SelectContent>
               </Select>
-              {errors.year && (
-                <p className="text-sm text-destructive">{errors.year.message}</p>
+              {errors.Year && (
+                <p className="text-sm text-destructive">{errors.Year.message}</p>
               )}
             </div>
 
@@ -272,16 +241,16 @@ export const InternshipForm = () => {
                   </div>
                 ))}
               </div>
-              {errors.skills && (
-                <p className="text-sm text-destructive">{errors.skills.message}</p>
+              {errors.Skills && (
+                <p className="text-sm text-destructive">{errors.Skills.message}</p>
               )}
             </div>
 
             {/* Sector Field */}
             <div className="space-y-2">
               <Label htmlFor="sector">Preferred Sector *</Label>
-              <Select onValueChange={(value) => setValue("sector", value)}>
-                <SelectTrigger className={errors.sector ? "border-destructive" : ""}>
+              <Select onValueChange={(value) => setValue("Sector", value)}>
+                <SelectTrigger className={errors.Sector ? "border-destructive" : ""}>
                   <SelectValue placeholder="Select preferred sector" />
                 </SelectTrigger>
                 <SelectContent>
@@ -292,16 +261,16 @@ export const InternshipForm = () => {
                   ))}
                 </SelectContent>
               </Select>
-              {errors.sector && (
-                <p className="text-sm text-destructive">{errors.sector.message}</p>
+              {errors.Sector && (
+                <p className="text-sm text-destructive">{errors.Sector.message}</p>
               )}
             </div>
 
             {/* Stream Field */}
             <div className="space-y-2">
               <Label htmlFor="stream">Stream *</Label>
-              <Select onValueChange={(value) => setValue("stream", value)}>
-                <SelectTrigger className={errors.stream ? "border-destructive" : ""}>
+              <Select onValueChange={(value) => setValue("Stream", value)}>
+                <SelectTrigger className={errors.Stream ? "border-destructive" : ""}>
                   <SelectValue placeholder="Select your stream" />
                 </SelectTrigger>
                 <SelectContent>
@@ -312,8 +281,8 @@ export const InternshipForm = () => {
                   ))}
                 </SelectContent>
               </Select>
-              {errors.stream && (
-                <p className="text-sm text-destructive">{errors.stream.message}</p>
+              {errors.Stream && (
+                <p className="text-sm text-destructive">{errors.Stream.message}</p>
               )}
             </div>
 
@@ -339,15 +308,15 @@ export const InternshipForm = () => {
               {dummyRecommendations.map((rec, idx) => (
                 <Card key={idx} className="border shadow-sm">
                   <CardHeader>
-                    <CardTitle className="text-lg font-semibold">{rec.title}</CardTitle>
+                    <CardTitle className="text-lg font-semibold">{rec.Title}</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="mb-2">{rec.description}</p>
+                    <p className="mb-2">{rec.Description}</p>
                     <div className="grid grid-cols-2 gap-2 text-sm mb-2">
-                      <div><span className="font-medium">Duration:</span> {rec.duration}</div>
-                      <div><span className="font-medium">Stipend:</span> {rec.stipend}</div>
-                      <div><span className="font-medium">Location:</span> {rec.location}</div>
-                      <div><span className="font-medium">End Date:</span> {rec.endDate}</div>
+                      <div><span className="font-medium">Duration:</span> {rec.Duration}</div>
+                      <div><span className="font-medium">Stipend:</span> {rec.Stipend}</div>
+                      <div><span className="font-medium">Location:</span> {rec.Location}</div>
+                      <div><span className="font-medium">End Date:</span> {rec.EndDate}</div>
                     </div>
                     <Button
                       className="mt-2"
